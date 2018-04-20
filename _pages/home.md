@@ -118,7 +118,8 @@ I've spent several months at:
 ------------
 
 <!-- %%%%%%%%%%%%%%%%%%% ACKNOWLEDGEMENTS %%%%%%%%%%%%%%%%%%% -->
-### Press Coverage
+## Press Coverage
+<br>
 
 {::options parse_block_html="true" /}
 <div class="press">
