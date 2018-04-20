@@ -193,6 +193,12 @@ pre {
   height: 50px;
 }
 
+@media all and (max-width: 768px) { 
+  .press p img {
+  height: 16px;
+  }
+}
+
 .press a img {
   border-bottom: none;
 }
