@@ -98,8 +98,8 @@ I've spent several months at:
 ## Research
 
 <div class="row">
-<div class="col-md-8" style="text-align: left; width: 600px;">
-  <img style="width: 600px; height: 383px;" alt="topics" src="{{ site.baseurl }}/static/img/computer_vision_lab.jpg">
+<div class="col-md-8">
+  <img alt="topics" src="{{ site.baseurl }}/static/img/computer_vision_lab.jpg">
 </div>
 
 <div class="col-md-4" style="margin-top:10%;">
