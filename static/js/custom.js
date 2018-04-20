@@ -3,7 +3,7 @@ jQuery(document).ready(function($) {
   {
 
       var target = $( $(this).attr('href') ),
-      headerHeight = 65; // Get fixed header height
+      headerHeight = 75; // Get fixed header height
 
       if (target.length)
       {
