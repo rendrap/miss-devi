@@ -202,3 +202,11 @@ pre {
 .press a img {
   border-bottom: none;
 }
+
+.press p:nth-child(odd) {
+    text-align: left;
+}
+
+.press p:nth-child(odd) a {
+    margin-right: .5rem;
+}
