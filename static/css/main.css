@@ -190,10 +190,10 @@ pre {
 }
 
 .press p img {
-  height: 50px;
+  height: 30px;
 }
 
-@media all and (max-width: 768px) { 
+@media all and (max-width: 768px) {
   .press p img {
   height: 16px;
   }

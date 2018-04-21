@@ -83,12 +83,12 @@ From 2013 to 2016 I was an Assistant Professor in the [Bradley Department of Ele
 of the [College of Engineering][coe-ntu] at [Nanyang Technological University][ntu] in Singapore). I got my BS, also in [ECE][rowan-ece], at [Rowan University][rowan] in 2005, where I worked with [Dr. Robi Polikar][polikar] on several pattern recognition problems.
 
 I've spent several months at:
-- [Robotics Institute (RI)](http://www.ri.cmu.edu/), [CMU](http://www.cmu.edu/index.shtml) (Visiting Research Assistant Professor, Summer 2012) collaborating with [Martial Hebert](http://www.cs.cmu.edu/%7Ehebert/)
-- [CSAIL](http://www.csail.mit.edu/), [MIT](http://web.mit.edu/)(Visiting Scientist, Spring 2011)collaborating with [Antonio Torralba](http://web.mit.edu/torralba/www/) and [Aude Oliva](http://cvcl.mit.edu/aude.htm)
-- [University of Texas at Austin](http://www.utexas.edu/) (Research Fellow, Fall 2010) collaborating with [Kristen Grauman](http://www.cs.utexas.edu/%7Egrauman/)
-- [Microsoft Research (Redmond)](http://research.microsoft.com/en-us/labs/redmond/default.aspx) (Visiting Researcher, Summer 2010, 2015; Research Intern, Summer 2008) collaborating with [Larry Zitnick](http://research.microsoft.com/en-us/people/larryz/)
-- [Microsoft Research (Redmond)](http://research.microsoft.com/en-us/labs/redmond/default.aspx) (Research Intern, Summer 2007) working with [Gavin Jancke](http://research.microsoft.com/en-us/people/gavinj/)
-- [Intel Research (Pittsburgh)](http://pittsburgh.intel-research.net/) (Research Intern, Summer 2006) working with [Rahul Sukthankar](http://www.cs.cmu.edu/%7Erahuls/)
+- [Robotics Institute (RI)][ri], [CMU][cmu-index] (Visiting Research Assistant Professor, Summer 2012) collaborating with [Martial Hebert][cmu-edu]
+- [CSAIL][csail], [MIT][mit](Visiting Scientist, Spring 2011)collaborating with [Antonio Torralba][mit-torralba] and [Aude Oliva][mit-aude]
+- [University of Texas at Austin][utexas] (Research Fellow, Fall 2010) collaborating with [Kristen Grauman][utexas-egrauman]
+- [Microsoft Research (Redmond)][microsoft] (Visiting Researcher, Summer 2010, 2015; Research Intern, Summer 2008) collaborating with [Larry Zitnick][microsoft-larryz]
+- [Microsoft Research (Redmond)][microsoft] (Research Intern, Summer 2007) working with [Gavin Jancke][microsoft-gavinj]
+- [Intel Research (Pittsburgh)][intel-research] (Research Intern, Summer 2006) working with [Rahul Sukthankar][cmu-erahuls]
 
 [Bio]({{ site.baseurl }}/static/txt/DeviParikh_bio.txt)
 
@@ -124,65 +124,65 @@ I've spent several months at:
 {::options parse_block_html="true" /}
 <div class="press">
 
-[![]({{ site.baseurl }}/static/img/press_logos/cnn.jpg)](http://money.cnn.com/2017/06/14/technology/future/facebook-chatbot-negotiate/index.html) [![]({{ site.baseurl }}/static/img/press_logos/fast_company.png)](https://www.fastcompany.com/40430548/bad-at-negotiating-facebook-is-working-on-bots-that-can-do-it-for-you)[![]({{ site.baseurl }}/static/img/press_logos/techcrunch.png)](https://techcrunch.com/2017/06/14/facebook-teaches-machines-to-negotiate-with-humans/)[![]({{ site.baseurl }}/static/img/press_logos/quartz.png)](https://qz.com/1004070/facebook-fb-built-an-ai-system-that-learned-to-lie-to-get-what-it-wants/) [![]({{ site.baseurl }}/static/img/press_logos/verge.png)](https://www.theverge.com/2017/6/14/15799068/chatbot-negotiations-ai-facebook-fair) [![]({{ site.baseurl }}/static/img/press_logos/new_scientist.jpg)](https://www.newscientist.com/article/mg23431304-300-chatbots-learn-how-to-drive-a-hard-bargain/)
+[![][cnn]][cnn-money] [![][fast_company]][fast_company.com][![][techcrunch]][techcrunch.com][![][quartz]][qz.com] [![][verge]][theverge.com] [![][new-scientist]][new-scientist.com]
 
-50+ articles on our work on training AI bots to negotiate, including [CNN](http://money.cnn.com/2017/06/14/technology/future/facebook-chatbot-negotiate/index.html), [Fast Company](https://www.fastcompany.com/40430548/bad-at-negotiating-facebook-is-working-on-bots-that-can-do-it-for-you), [TechCrunch](https://techcrunch.com/2017/06/14/facebook-teaches-machines-to-negotiate-with-humans/), [Quartz](https://qz.com/1004070/facebook-fb-built-an-ai-system-that-learned-to-lie-to-get-what-it-wants/), [The Verge](https://www.theverge.com/2017/6/14/15799068/chatbot-negotiations-ai-facebook-fair), and [New Scientist](https://www.newscientist.com/article/mg23431304-300-chatbots-learn-how-to-drive-a-hard-bargain/).
+50+ articles on our work on training AI bots to negotiate, including [CNN][cnn-money], [Fast Company][fast_company.com], [TechCrunch][techcrunch.com], [Quartz][qz.com], [The Verge][theverge.com], and [New Scientist][new-scientist.com].
 
-[![]({{ site.baseurl }}/static/img/press_logos/gtcc.png)](http://www.cc.gatech.edu/news/588083/pair-ic-assistant-professors-earn-awards-research-visual-question-answering)
+[![][gtcc]][gatech.edu]
 
-Georgia Tech College of Computing's [featured news story](http://www.cc.gatech.edu/news/588083/pair-ic-assistant-professors-earn-awards-research-visual-question-answering) about my Google Faculty Research Award 2016 on Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering.
+Georgia Tech College of Computing's [featured news story][gatech.edu] about my Google Faculty Research Award 2016 on Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering.
 
-[![]({{ site.baseurl }}/static/img/press_logos/gtcc.png)](http://www.cc.gatech.edu/news/586463/amazon-research-awards-fund-computer-vision-and-machine-learning-projects)
+[![][gtcc]][gatech.edu-awards]
 
-Georgia Tech College of Computing's [featured news story](http://www.cc.gatech.edu/news/586463/amazon-research-awards-fund-computer-vision-and-machine-learning-projects) about my Amazon Academic Research Award 2016 on Counting Everyday Objects in Everyday Scenes.
+Georgia Tech College of Computing's [featured news story][gatech.edu-awards] about my Amazon Academic Research Award 2016 on Counting Everyday Objects in Everyday Scenes.
 
-[![]({{ site.baseurl }}/static/img/press_logos/mit-tech-review.png)](https://www.technologyreview.com/s/601819/ai-is-learning-to-see-the-world-but-not-the-way-humans-do/)[![]({{ site.baseurl }}/static/img/press_logos/ns.png)](https://www.newscientist.com/article/2095616-robot-eyes-and-humans-fix-on-different-things-to-decode-a-scene/)[![]({{ site.baseurl }}/static/img/press_logos/the_verge.jpg)](http://www.theverge.com/2016/7/12/12158238/first-click-deep-learning-algorithmic-black-boxes)[![]({{ site.baseurl }}/static/img/press_logos/nautilus.png)](http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable)
+[![][mit-tech-review]][technologyreview][![][ns]][new-scientist.com][![][the-verge]][theverge.com-deep][![][nautilus]][nautil.us]
 
-Our work on comparing where humans and machines look when answering questions about images was covered in [MIT Technology Review](https://www.technologyreview.com/s/601819/ai-is-learning-to-see-the-world-but-not-the-way-humans-do/), [New Scientist](https://www.newscientist.com/article/2095616-robot-eyes-and-humans-fix-on-different-things-to-decode-a-scene/), [The Verge](http://www.theverge.com/2016/7/12/12158238/first-click-deep-learning-algorithmic-black-boxes), and [Nautilus](http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable).
+Our work on comparing where humans and machines look when answering questions about images was covered in [MIT Technology Review][technologyreview], [New Scientist][new-scientist.com], [The Verge][theverge.com-deep], and [Nautilus][nautil.us].
 
-[![]({{ site.baseurl }}/static/img/press_logos/mit-tech-review.png)](http://www.technologyreview.com/view/545316/ai-algorithm-identifies-humorous-pictures/)[![]({{ site.baseurl }}/static/img/press_logos/newsweek.png)](http://www.newsweek.com/artificial-intelligence-algorithm-taught-recognise-humor-413832?rx=us)[![]({{ site.baseurl }}/static/img/press_logos/ecevt.jpg)](https://www.ece.vt.edu/news/articles/coding-jokes-virginia-tech-research-team-tackles-the-algorithm-of-humor.html)
+[![][mit-tech-review]][technologyreview-ai][![][newsweek]](http://www.newsweek.com/artificial-intelligence-algorithm-taught-recognise-humor-413832?rx=us)[![][ecevt]][ece.vt]
 
-Our work on understanding and predicting visual humor was covered in [MIT Technology Review](http://www.technologyreview.com/view/545316/ai-algorithm-identifies-humorous-pictures/). Virginia Tech's Bradeley Department of Electrical and Computer Engineering's [featured news story](https://www.ece.vt.edu/news/articles/coding-jokes-virginia-tech-research-team-tackles-the-algorithm-of-humor.html).
+Our work on understanding and predicting visual humor was covered in [MIT Technology Review][technologyreview-ai]. Virginia Tech's Bradeley Department of Electrical and Computer Engineering's [featured news story][ece.vt].
 
-[![]({{ site.baseurl }}/static/img/press_logos/ecevt.jpg)](http://www.ece.vt.edu/news/articles/machine-perception-receives-award.html)[![]({{ site.baseurl }}/static/img/press_logos/VTCOE.jpg)](https://www.vtnews.vt.edu/articles/2016/02/022216-engineering-parikhnsfcareer.html)
+[![][ecevt]][ece.vt][![][vtc0e]][tvnews-eng]
 
-Virginia Tech's Bradeley Department of Electrical and Computer Engineering's [featured news story](https://www.ece.vt.edu/news/articles/parikh-wins-nsf-career-award.html), and Virginia Tech's College of Engineering's [featured new story](https://www.vtnews.vt.edu/articles/2016/02/022216-engineering-parikhnsfcareer.html) about my National Science Foundation (NSF) CAREER Award (2016) on [Visual Question Answering (VQA)](http://www.visualqa.org/).
+Virginia Tech's Bradeley Department of Electrical and Computer Engineering's [featured news story][ece.vt-career], and Virginia Tech's College of Engineering's [featured new story][tvnews-eng] about my National Science Foundation (NSF) CAREER Award (2016) on [Visual Question Answering (VQA)][visualqa].
 
-[![]({{ site.baseurl }}/static/img/press_logos/ecevt.jpg)](http://www.ece.vt.edu/news/articles/machine-perception-receives-award.html)
+[![][ecevt]][ece.vt]
 
-Virginia Tech's Bradeley Department of Electrical and Computer Engineering's [featured news story](http://www.ece.vt.edu/news/articles/machine-perception-receives-award.html) about [Dhruv Batra](https://filebox.ece.vt.edu/%7Edbatra/)'s and my Google Faculty Research Award 2015 on [Visual Question Answering (VQA)](http://www.visualqa.org).
+Virginia Tech's Bradeley Department of Electrical and Computer Engineering's [featured news story][ece.vt] about [Dhruv Batra][filebox]'s and my Google Faculty Research Award 2015 on [Visual Question Answering (VQA)][visualqa].
 
-[![]({{ site.baseurl }}/static/img/press_logos/bloomberg.png)](http://www.bloomberg.com/news/articles/2015-05-22/what-s-in-this-picture-ai-becomes-as-smart-as-a-toddler)
+[![][bloomberg]][bloomberg.com]
 
-Our work on Visual Question Answering (VQA) in [What's in This Picture? AI Becomes as Smart as a Toddler](http://www.bloomberg.com/news/articles/2015-05-22/what-s-in-this-picture-ai-becomes-as-smart-as-a-toddler) in Bloomberg Business.
+Our work on Visual Question Answering (VQA) in [What's in This Picture? AI Becomes as Smart as a Toddler][bloomberg.com] in Bloomberg Business.
 
-[![]({{ site.baseurl }}/static/img/press_logos/geekwire.png)](http://www.geekwire.com/2014/paul-allen-gives-5-7m-cutting-edge-artificial-intelligence-researchers/)[![]({{ site.baseurl }}/static/img/press_logos/gigaom.png)](https://gigaom.com/2014/12/03/allen-foundation-gives-millions-to-teach-machines-common-sense/)[![]({{ site.baseurl }}/static/img/press_logos/vtnews.png)](http://www.vtnews.vt.edu/articles/2014/12/120414-ictas-paulallenaward.html)
+[![][geekwire]][geekwire.com][![][gigaom]][gigaom][![][vtnews]][vtnews-ictas]
 
-GeekWire [news story](http://www.geekwire.com/2014/paul-allen-gives-5-7m-cutting-edge-artificial-intelligence-researchers/), Gigaom [article](https://gigaom.com/2014/12/03/allen-foundation-gives-millions-to-teach-machines-common-sense/), and Virginia Tech's [featured news story](http://www.vtnews.vt.edu/articles/2014/12/120414-ictas-paulallenaward.html) about my [Allen Distinguished Investigator in Artificial Intelligence](http://www.pgafamilyfoundation.org/News/News-Articles/Press-Releases/ADI-Artificial-Intelligence-2014-Grants) award from the [Paul G. Allen Family Foundation](http://www.pgafamilyfoundation.org/).
+GeekWire [news story][geekwire.com], Gigaom [article][gigaom], and Virginia Tech's [featured news story][vtnews-ictas] about my [Allen Distinguished Investigator in Artificial Intelligence][pgafamilyfoundation-grants] award from the [Paul G. Allen Family Foundation][pgafamilyfoundation.org].
 
-[![]({{ site.baseurl }}/static/img/press_logos/asee.png)](http://www.asee-prism.org/first-look-nov-2/)
+[![][asee]][asee-prism]
 
-"Do I know you?" Americal Society for Engineering Education (ASEE) [feature](http://www.asee-prism.org/first-look-nov-2/) in their Prism November 2014 issue
+"Do I know you?" Americal Society for Engineering Education (ASEE) [feature][asee-prism] in their Prism November 2014 issue
 
-[![]({{ site.baseurl }}/static/img/press_logos/newswise.png)](http://www.newswise.com/articles/view/623754/) [![]({{ site.baseurl }}/static/img/press_logos/alpha-galileo.png)](http://www.alphagalileo.org/ViewItem.aspx?ItemId=145716&CultureCode=en) [![]({{ site.baseurl }}/static/img/press_logos/ecn.png)](http://www.ecnmag.com/news/2014/09/can-cartoons-be-used-teach-machines-understand-visual-world)[![]({{ site.baseurl }}/static/img/press_logos/eureka-alert.png)](http://www.eurekalert.org/pub_releases/2014-09/vt-ccb092614.php) [![]({{ site.baseurl }}/static/img/press_logos/4traders.jpg)](http://www.4-traders.com/news/Can-cartoons-be-used-to-teach-machines-to-understand-the-visual-world--19159475/)
+[![][newswise]](http://www.newswise.com/articles/view/623754/) [![][alpha-galileo]](http://www.alphagalileo.org/ViewItem.aspx?ItemId=145716&CultureCode=en) [![][ecn]](http://www.ecnmag.com/news/2014/09/can-cartoons-be-used-teach-machines-understand-visual-world)[![][eureka-alert]](http://www.eurekalert.org/pub_releases/2014-09/vt-ccb092614.php) [![][4-traders]](http://www.4-traders.com/news/Can-cartoons-be-used-to-teach-machines-to-understand-the-visual-world--19159475/)
 
 "Can cartoons be used to teach machines to understand the visual world?"
 
-[![]({{ site.baseurl }}/static/img/press_logos/4traders.jpg)](http://www.4-traders.com/GOOGLE-INC-C-16118013/news/GOOGLE-C--Devi-Parikh-Receives-Innovative-Google-Faculty-Research-Award-19168358/)[![]({{ site.baseurl }}/static/img/press_logos/vtnews.png)](http://www.vtnews.vt.edu/articles/2014/10/100914-engineering-parikhgoogleaward.html)[![]({{ site.baseurl }}/static/img/press_logos/ecevt.jpg)](http://www.ece.vt.edu/news/articles/Parikh-Google-Faculty-Award)
+[![][4-traders]][4-traders-google][![][vtnews]][vtnews-eng][![][ecevt]][ece.vt-award]
 
-4-traders [news story](http://www.4-traders.com/GOOGLE-INC-C-16118013/news/GOOGLE-C--Devi-Parikh-Receives-Innovative-Google-Faculty-Research-Award-19168358/), Virginia Tech's [featured news story](http://www.vtnews.vt.edu/articles/2014/10/100914-engineering-parikhgoogleaward.html), and Virginia Tech's Bradeley Department of Electrical and Computer Engineering's [featured news story](http://www.ece.vt.edu/news/articles/Parikh-Google-Faculty-Award) about my Google Faculty Research Award 2014.
+4-traders [news story][4-traders-google], Virginia Tech's [featured news story][vtnews-eng], and Virginia Tech's Bradeley Department of Electrical and Computer Engineering's [featured news story][ece.vt-award] about my Google Faculty Research Award 2014.
 
-[![]({{ site.baseurl }}/static/img/press_logos/vtnews.png)](http://www.vtnews.vt.edu/articles/2014/04/041714-engineering-deviparikharmyaward.html) [![]({{ site.baseurl }}/static/img/press_logos/VTCOE.jpg)](http://www.vtnews.vt.edu/articles/2014/04/041714-engineering-deviparikharmyaward.html)
+[![][vtnews]][vtnews-eng-devi] [![][vtc0e]][vtnews-eng-devi]
 
-Virginia Tech and College of Engineering's [featured news story](http://www.vtnews.vt.edu/articles/2014/04/041714-engineering-deviparikharmyaward.html) about my Army Research Office (ARO) Young Investigator Program (YIP) 2014 award.
+Virginia Tech and College of Engineering's [featured news story][vtnews-eng-devi] about my Army Research Office (ARO) Young Investigator Program (YIP) 2014 award.
 
-[![]({{ site.baseurl }}/static/img/press_logos/vacas.gif)](http://www.unmanned.vt.edu/news/2014/computer-vision-feedback.html)
+[![][vacas]][cv-feedback]
 
-Virginia Center for Autonomous Systems (VaCAS) [featured news story](http://www.unmanned.vt.edu/news/2014/computer-vision-feedback.html) about my Army Research Office (ARO) Young Investigator Program (YIP) 2014 award.
+Virginia Center for Autonomous Systems (VaCAS) [featured news story][cv-feedback] about my Army Research Office (ARO) Young Investigator Program (YIP) 2014 award.
 
-[![]({{ site.baseurl }}/static/img/press_logos/ecevt.jpg)](http://www.ece.vt.edu/news/ar13/crowdsourcing_computer_vision.php)
+[![][ecevt]][ece-crowdsource]
 
-Virginia Tech's 2013 ECE Annual Report has a [profile](http://www.ece.vt.edu/news/ar13/crowdsourcing_computer_vision.php) of my research.
+Virginia Tech's 2013 ECE Annual Report has a [profile][ece-crowdsource] of my research.
 
 </div>
 {::options parse_block_html="false" /}
@@ -264,3 +264,76 @@ Virginia Tech's 2013 ECE Annual Report has a [profile](http://www.ece.vt.edu/new
 [rowan]: https://www.rowan.edu
 [rowan-ece]: https://academics.rowan.edu/engineering/programs/electricalcomputer
 [polikar]: http://users.rowan.edu/~polikar/
+
+[ri]: http://www.ri.cmu.edu/
+[cmu-index]: http://www.cmu.edu/index.shtml
+[cmu-edu]: http://www.cs.cmu.edu/%7Ehebert/
+[csail]: http://www.csail.mit.edu/
+[mit]: http://web.mit.edu/
+[mit-torralba]: http://web.mit.edu/torralba/www/
+[mit-aude]: http://cvcl.mit.edu/aude.htm
+[utexas]: http://www.utexas.edu/
+[utexas-egrauman]: http://www.cs.utexas.edu/%7Egrauman/
+[microsoft]: http://research.microsoft.com/en-us/labs/redmond/default.aspx
+[microsoft-larryz]: http://research.microsoft.com/en-us/people/larryz/
+[microsoft-gavinj]: http://research.microsoft.com/en-us/people/gavinj/
+[intel-research]: http://pittsburgh.intel-research.net/
+[cmu-erahuls]: http://www.cs.cmu.edu/%7Erahuls/
+
+[cnn]: {{ site.baseurl }}/static/img/press_logos/cnn.jpg
+[fast_company]: {{ site.baseurl }}/static/img/press_logos/fast_company.png
+[techcrunch]: {{ site.baseurl }}/static/img/press_logos/techcrunch.png
+[quartz]: {{ site.baseurl }}/static/img/press_logos/quartz.png
+[verge]: {{ site.baseurl }}/static/img/press_logos/verge.png
+[new-scientist]: {{ site.baseurl }}/static/img/press_logos/new_scientist.jpg
+[cnn-money]: http://money.cnn.com/2017/06/14/technology/future/facebook-chatbot-negotiate/index.html
+[fast_company.com]: https://www.fastcompany.com/40430548/bad-at-negotiating-facebook-is-working-on-bots-that-can-do-it-for-you
+[techcrunch.com]: https://techcrunch.com/2017/06/14/facebook-teaches-machines-to-negotiate-with-humans/
+[qz.com]: https://qz.com/1004070/facebook-fb-built-an-ai-system-that-learned-to-lie-to-get-what-it-wants/
+[theverge.com]: https://www.theverge.com/2017/6/14/15799068/chatbot-negotiations-ai-facebook-fair
+[new-scientist.com]: https://www.newscientist.com/article/mg23431304-300-chatbots-learn-how-to-drive-a-hard-bargain/
+[gtcc]: {{ site.baseurl }}/static/img/press_logos/gtcc.png
+[gatech.edu]: http://www.cc.gatech.edu/news/588083/pair-ic-assistant-professors-earn-awards-research-visual-question-answering
+[gatech.edu-awards]: http://www.cc.gatech.edu/news/586463/amazon-research-awards-fund-computer-vision-and-machine-learning-projects
+[mit-tech-review]: {{ site.baseurl }}/static/img/press_logos/mit-tech-review.png
+[ns]: {{ site.baseurl }}/static/img/press_logos/ns.png
+[the-verge]: {{ site.baseurl }}/static/img/press_logos/the_verge.jpg
+[nautilus]: {{ site.baseurl }}/static/img/press_logos/nautilus.png
+[technologyreview]: https://www.technologyreview.com/s/601819/ai-is-learning-to-see-the-world-but-not-the-way-humans-do/
+[new-scientist.com]: https://www.newscientist.com/article/2095616-robot-eyes-and-humans-fix-on-different-things-to-decode-a-scene/
+[theverge.com-deep]: http://www.theverge.com/2016/7/12/12158238/first-click-deep-learning-algorithmic-black-boxes
+[nautil.us]: http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable
+[newsweek]: {{ site.baseurl }}/static/img/press_logos/newsweek.png
+[ecevt]: {{ site.baseurl }}/static/img/press_logos/ecevt.jpg
+[technologyreview-ai]: http://www.technologyreview.com/view/545316/ai-algorithm-identifies-humorous-pictures/
+[ece.vt]: https://www.ece.vt.edu/news/articles/coding-jokes-virginia-tech-research-team-tackles-the-algorithm-of-humor.html
+[vtc0e]: {{ site.baseurl }}/static/img/press_logos/VTCOE.jpg
+[ece.vt-career]: https://www.ece.vt.edu/news/articles/parikh-wins-nsf-career-award.html
+[tvnews-eng]: https://www.vtnews.vt.edu/articles/2016/02/022216-engineering-parikhnsfcareer.html
+[visualqa]: http://www.visualqa.org/
+[ece.vt]: http://www.ece.vt.edu/news/articles/machine-perception-receives-award.html
+[filebox]: https://filebox.ece.vt.edu/%7Edbatra/
+[bloomberg]: {{ site.baseurl }}/static/img/press_logos/bloomberg.png
+[bloomberg.com]: http://www.bloomberg.com/news/articles/2015-05-22/what-s-in-this-picture-ai-becomes-as-smart-as-a-toddler
+[geekwire]: {{ site.baseurl }}/static/img/press_logos/geekwire.png
+[gigaom]: {{ site.baseurl }}/static/img/press_logos/gigaom.png
+[vtnews]: {{ site.baseurl }}/static/img/press_logos/vtnews.png
+[geekwire.com]: http://www.geekwire.com/2014/paul-allen-gives-5-7m-cutting-edge-artificial-intelligence-researchers/
+[gigaom]: https://gigaom.com/2014/12/03/allen-foundation-gives-millions-to-teach-machines-common-sense/
+[vtnews-ictas]: http://www.vtnews.vt.edu/articles/2014/12/120414-ictas-paulallenaward.html
+[pgafamilyfoundation-grants]: http://www.pgafamilyfoundation.org/News/News-Articles/Press-Releases/ADI-Artificial-Intelligence-2014-Grants
+[pgafamilyfoundation.org]: http://www.pgafamilyfoundation.org/
+[asee]: {{ site.baseurl }}/static/img/press_logos/asee.png
+[asee-prism]: http://www.asee-prism.org/first-look-nov-2/
+[newswise]: {{ site.baseurl }}/static/img/press_logos/newswise.png
+[alpha-galileo]: {{ site.baseurl }}/static/img/press_logos/alpha-galileo.png
+[ecn]: {{ site.baseurl }}/static/img/press_logos/ecn.png
+[eureka-alert]: {{ site.baseurl }}/static/img/press_logos/eureka-alert.png
+[4-traders]: {{ site.baseurl }}/static/img/press_logos/4traders.jpg
+[4-traders-google]: http://www.4-traders.com/GOOGLE-INC-C-16118013/news/GOOGLE-C--Devi-Parikh-Receives-Innovative-Google-Faculty-Research-Award-19168358/
+[vtnews-eng]: http://www.vtnews.vt.edu/articles/2014/10/100914-engineering-parikhgoogleaward.html
+[ece.vt-award]: http://www.ece.vt.edu/news/articles/Parikh-Google-Faculty-Award
+[vtnews-eng-devi]: http://www.vtnews.vt.edu/articles/2014/04/041714-engineering-deviparikharmyaward.html
+[vacas]: {{ site.baseurl }}/static/img/press_logos/vacas.gif
+[cv-feedback]: http://www.unmanned.vt.edu/news/2014/computer-vision-feedback.html
+[ece-crowdsource]: http://www.ece.vt.edu/news/ar13/crowdsourcing_computer_vision.php
