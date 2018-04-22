@@ -140,7 +140,7 @@ Georgia Tech College of Computing's [featured news story][gatech.edu-awards] abo
 
 Our work on comparing where humans and machines look when answering questions about images was covered in [MIT Technology Review][technologyreview], [New Scientist][new-scientist.com], [The Verge][theverge.com-deep], and [Nautilus][nautil.us].
 
-[![][mit-tech-review]][technologyreview-ai][![][newsweek]](http://www.newsweek.com/artificial-intelligence-algorithm-taught-recognise-humor-413832?rx=us)[![][ecevt]][ece.vt]
+[![][mit-tech-review]][technologyreview-ai][![][newsweek]]()[![][ecevt]][ece.vt]
 
 Our work on understanding and predicting visual humor was covered in [MIT Technology Review][technologyreview-ai]. Virginia Tech's Bradeley Department of Electrical and Computer Engineering's [featured news story][ece.vt].
 
@@ -164,7 +164,7 @@ GeekWire [news story][geekwire.com], Gigaom [article][gigaom], and Virginia Tech
 
 "Do I know you?" Americal Society for Engineering Education (ASEE) [feature][asee-prism] in their Prism November 2014 issue
 
-[![][newswise]](http://www.newswise.com/articles/view/623754/) [![][alpha-galileo]](http://www.alphagalileo.org/ViewItem.aspx?ItemId=145716&CultureCode=en) [![][ecn]](http://www.ecnmag.com/news/2014/09/can-cartoons-be-used-teach-machines-understand-visual-world)[![][eureka-alert]](http://www.eurekalert.org/pub_releases/2014-09/vt-ccb092614.php) [![][4-traders]](http://www.4-traders.com/news/Can-cartoons-be-used-to-teach-machines-to-understand-the-visual-world--19159475/)
+[![][newswise]][newswise.com] [![][alpha-galileo]][alphagalileo.org] [![][ecn]][ecnmag.com] [![][eureka-alert]][eurekalert.org] [![][4-traders]][4-traders-news]
 
 "Can cartoons be used to teach machines to understand the visual world?"
 
@@ -337,3 +337,9 @@ Virginia Tech's 2013 ECE Annual Report has a [profile][ece-crowdsource] of my re
 [vacas]: {{ site.baseurl }}/static/img/press_logos/vacas.gif
 [cv-feedback]: http://www.unmanned.vt.edu/news/2014/computer-vision-feedback.html
 [ece-crowdsource]: http://www.ece.vt.edu/news/ar13/crowdsourcing_computer_vision.php
+[newswise.com]: http://www.newswise.com/articles/view/623754/
+[alphagalileo.org]: http://www.alphagalileo.org/ViewItem.aspx?ItemId=145716&CultureCode=en
+[ecnmag.com]: http://www.ecnmag.com/news/2014/09/can-cartoons-be-used-teach-machines-understand-visual-world
+[eurekalert.org]: http://www.eurekalert.org/pub_releases/2014-09/vt-ccb092614.php
+[4-traders-news]: http://www.4-traders.com/news/Can-cartoons-be-used-to-teach-machines-to-understand-the-visual-world--19159475/
+[newsweek.com-ai]: http://www.newsweek.com/artificial-intelligence-algorithm-taught-recognise-humor-413832?rx=us

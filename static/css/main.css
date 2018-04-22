@@ -210,3 +210,67 @@ pre {
 .press p:nth-child(odd) a {
     margin-right: .5rem;
 }
+
+
+/* Publications page */
+
+.year-links p, .year-links a {
+  margin-right: 0.75rem;
+  -ms-text-align-last: auto;
+  text-align: left;
+}
+
+.pub .row {
+  padding: 0 15px;
+}
+@media (max-width: 767px) {
+  .row.vertical-align {
+    display: block; /* Turn off the flexible box layout */
+  }
+  .pub .col-sm-7 {
+    margin-top: 3rem;
+  }
+}
+
+.pub .col-sm-7 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* height: 260px; */
+  padding-left: 25px;
+}
+
+.pub .col-sm-5 p {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.pub .col-sm-5 p img {
+  max-height: 260px;
+}
+
+@media screen and (max-width: 991px) {
+  .pub .col-sm-7 {
+    height:auto;
+    padding-left: 15px;
+  }
+  .pub .col-sm-7 p {
+    text-align: center;
+    font-size: 14px;
+    letter-spacing: -0.5px;
+    margin-bottom: 0;
+  }
+  #navbar-main > ul > li > a{
+    padding-left: 0;
+    font-size: 14px;
+    letter-spacing: -0.5px;
+  }
+  #navbar-main > ul > li:last-child > a {
+    padding-right: 0;
+  }
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
