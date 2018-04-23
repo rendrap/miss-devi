@@ -31,7 +31,6 @@ favicon: ./static/img/devi/devi.png
 <div class="col-sm-5">
 <img alt="topics" src="{{ site.baseurl }}/static/img/pub/codraw.png">
 </div>
-
 <div class="col-sm-7">
 
 [J. Kim][20], Devi Parikh, [D. Batra][21], [B. Zhang][22], and [Y. Tian][23]
@@ -47,7 +46,6 @@ https://arxiv.org/abs/1712.05558, 2017
 <div class="col-sm-5">
 <img alt="topics" src="{{ site.baseurl }}/static/img/pub/active_vqa.png">
 </div>
-
 <div class="col-sm-7">
 
 [X. Lin][25] and Devi Parikh
@@ -64,7 +62,6 @@ https://arxiv.org/abs/1711.01732, 2017
 <div class="col-sm-5">
 <img alt="topics" src="{{ site.baseurl }}/static/img/pub/cooperative_learning.png">
 </div>
-
 <div class="col-sm-7">
 
 [T. Batra][27] and Devi Parikh
@@ -76,7 +73,11 @@ arxiv.org/abs/1705.05512, 2017
 </div>
 </div><hr>
 
-{::options parse_block_html="false" /}
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/c-vqa.png">
+</div>
+<div class="col-sm-7">
 
 [A. Agrawal][29], [A. Kembhavi][30], [D. Batra][21], and Devi Parikh
 
@@ -84,10 +85,26 @@ arxiv.org/abs/1705.05512, 2017
 
 arxiv.org/abs/1704.08243, 2017
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [A. Chandrasekaran][32]*, [D. Yadav][33]*, [P. Chattopadhyay][34]*, [V. Prabhu][35]*, and Devi Parikh
-* equal contribution
+
+/* equal contribution
+
 [It Takes Two to Tango: Towards Theory of AI's Mind][36]
 arxiv.org/abs/1704.00717, 2017
+
+</div>
+</div><hr>
+
+{::options parse_block_html="false" /}
 
 ### 2018 [[back to top]][37]
 

@@ -233,13 +233,19 @@ pre {
   padding-left: 25px;
 }
 
+.pub .col-sm-7 p {
+  margin-bottom: 3px;
+  line-height: 16px;
+  font-size: 14px;
+}
+
 .pub .col-sm-5 p {
-  text-align: center;
+  text-align: left;
   margin-bottom: 0;
 }
 
 .pub .col-sm-5 p img {
-  max-height: 180px;
+  max-height: 95px;
 }
 
 .pub hr {
