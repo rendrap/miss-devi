@@ -24,7 +24,6 @@ favicon: ./static/img/devi/devi.png
 <hr>
 
 ## Latest arXiv Manuscripts
-<br>
 
 {::options parse_block_html="true" /}
 
@@ -43,9 +42,6 @@ https://arxiv.org/abs/1712.05558, 2017
 
 </div>
 </div><hr>
-<br>
-
-
 
 <div class="row vertical-align">
 <div class="col-sm-5">
@@ -62,9 +58,14 @@ https://arxiv.org/abs/1711.01732, 2017
 
 </div>
 </div><hr>
-<br>
 
-{::options parse_block_html="false" /}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/cooperative_learning.png">
+</div>
+
+<div class="col-sm-7">
 
 [T. Batra][27] and Devi Parikh
 
@@ -72,6 +73,10 @@ https://arxiv.org/abs/1711.01732, 2017
 
 arxiv.org/abs/1705.05512, 2017
 
+</div>
+</div><hr>
+
+{::options parse_block_html="false" /}
 
 [A. Agrawal][29], [A. Kembhavi][30], [D. Batra][21], and Devi Parikh
 
