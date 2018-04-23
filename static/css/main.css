@@ -288,7 +288,7 @@ pre {
   .pub .col-sm-7 p {
     line-height: 18px;
   }
-  .pub .col-sm-5 p img {
+ /*  .pub .col-sm-5 p img {
     max-height: 95px;
-  }
+  } */
 }
