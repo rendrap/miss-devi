@@ -1225,7 +1225,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/local_attributes.png">
 </div>
 <div class="col-sm-7">
 
@@ -1242,7 +1242,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/segmentation.png">
 </div>
 <div class="col-sm-7">
 
@@ -1259,7 +1259,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/mem.png">
 </div>
 <div class="col-sm-7">
 
@@ -1276,7 +1276,7 @@ Visual Sciences Society (VSS), 2012
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/pami_2011.png">
 </div>
 <div class="col-sm-7">
 
@@ -1299,7 +1299,7 @@ _Pattern Analysis and Machine Intelligence (PAMI), 2012_
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/hum-deb.png">
 </div>
 <div class="col-sm-7">
 
@@ -1316,7 +1316,7 @@ _Neural Information Processing Systems (NIPS),_ 2011
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/icoseg_CVPR2010.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1333,7 +1333,7 @@ SpringerBriefs in Computer Science, 2011.
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/mem.png">
 </div>
 <div class="col-sm-7">
 
@@ -1350,7 +1350,7 @@ Neural Information Processing Systems (NIPS), 2011
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/relative_motivation.png">
 </div>
 <div class="col-sm-7">
 
@@ -1369,7 +1369,7 @@ Marr Prize (Best Paper Award) Winner
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/puzzled.png">
 </div>
 <div class="col-sm-7">
 
@@ -1386,7 +1386,7 @@ _International Conference on Computer Vision (ICCV),_ 2011
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/void.png">
 </div>
 <div class="col-sm-7">
 
@@ -1403,7 +1403,7 @@ _International Conference on Computer Vision (ICCV),_ 2011
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/weakest_link_det.png">
 </div>
 <div class="col-sm-7">
 
@@ -1420,7 +1420,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/nameable.png">
 </div>
 <div class="col-sm-7">
 
@@ -1437,7 +1437,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/nameable.png">
 </div>
 <div class="col-sm-7">
 
@@ -1458,7 +1458,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011 (Best
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/ori.png">
 </div>
 <div class="col-sm-7">
 
@@ -1473,7 +1473,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2011
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/icoseg_CVPR2010.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1490,7 +1490,7 @@ _International Journal of Computer Vision (IJCV),_ January 2011
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/css.png">
 </div>
 <div class="col-sm-7">
 
@@ -1510,14 +1510,14 @@ MSR-TR-2011-98, Microsoft Research, 2011
 
 {::options parse_block_html="true" /}
 
-Devi Parikh and [C. L. Zitnick][53]
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/FAD_CVPR2010.jpg">
 </div>
 <div class="col-sm-7">
 
+Devi Parikh and [C. L. Zitnick][53]
 
 [The Role of Features, Algorithms and Data in Visual Recognition][293]
 
@@ -1531,7 +1531,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2010_
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/OPD_CVPR2010.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1548,7 +1548,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2010
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/icoseg_CVPR2010.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1572,7 +1572,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2010 
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<!-- <img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png"> -->
 </div>
 <div class="col-sm-7">
 
@@ -1587,7 +1587,7 @@ Ph.D. Thesis, Carnegie Mellon University, 2009
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/icoseg_CVPR2010.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1602,7 +1602,7 @@ _IEEE International Conference on Image Processing (ICIP)_, 2009
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/steiner.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1619,7 +1619,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2009
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/cutout_search.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1634,7 +1634,7 @@ _Workshop on Internet Vision, IEEE Conference on Computer Vision and Pattern Rec
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<!-- <img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png"> -->
 </div>
 <div class="col-sm-7">
 
@@ -1651,7 +1651,7 @@ Demo at _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 200
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/learn++.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1672,7 +1672,7 @@ _ACM Symposium on Applied Computing (SAC),_ 2009
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/hSO.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1691,7 +1691,7 @@ _Special Issue on Patches in Vision,_ 2008
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/learn++.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1708,7 +1708,7 @@ _Special Issue on Statistical Methods for Network Security and Forensics,_ Augus
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/AZ.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1723,7 +1723,7 @@ _Information Fusion,_ _Special Issue on Applications of Ensemble Methods,_ Janua
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/saliency.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1740,7 +1740,7 @@ _European Conference on Computer Vision (ECCV)_, 2008
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/tiny.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1757,7 +1757,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2008
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/learn++.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1774,7 +1774,7 @@ _International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_,
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/barcode.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1797,7 +1797,7 @@ _Workshop on Applications in Computer Vision (WACV)_, 2008
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/learn++.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1812,7 +1812,7 @@ _IEEE Transactions on Systems, Man and Cybernetics,_ April 2007
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/hSO.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1829,7 +1829,7 @@ _Asian Conference in Computer Vision (ACCV)_, 2007
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/hSO.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1846,7 +1846,7 @@ _IEEE International Conference in Computer Vision (ICCV)_, 2007
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/learn++.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1863,7 +1863,7 @@ _IEEE Statistical Signal Processing Workshop_, 2007
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/hSO.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1882,7 +1882,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2007 **(Bes
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/3d.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1906,7 +1906,7 @@ _IEEE Workshop on Applications of Computer Vision (WACV)_, 2007
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/learn++.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1928,7 +1928,7 @@ _IEEE Proceedings on Sensors Applications Symposium_, 2006
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/alphat.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1943,7 +1943,7 @@ _The Journal of Solid Waste Technology And Management_, 2005
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/AZ.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1958,7 +1958,7 @@ _IEEE Proceedings on The Engineering in Medicine and Biology_, 2005
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/learn++.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1980,7 +1980,7 @@ _IEEE Proceedings on Information Fusion_, 2005
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/learn++.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -1995,7 +1995,7 @@ _IEEE Proceedings on Systems, Man and Cybernetics_, 2004
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/ndt.jpg">
 </div>
 <div class="col-sm-7">
 
@@ -2017,7 +2017,7 @@ _IEEE Proceedings on Ultrasonics, Ferroelectrics and Frequency Control_, 2004
 
 <div class="row vertical-align">
 <div class="col-sm-5">
-<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/alphat.jpg">
 </div>
 <div class="col-sm-7">
 
