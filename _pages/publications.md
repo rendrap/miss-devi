@@ -17,7 +17,7 @@ favicon: ./static/img/devi/devi.png
 
 {::options parse_block_html="true" /}
 <div class="year-links">
-[[latest]][4][[2018]][5][[2017]][6][[2016]][7][[2015]][8][[2014]][9] [[2013]][10][[2012]][11][[2011]][12][[2010]][12][[2009]][13][[2008]][14][[2007]][15][[2006]][16][[2005]][17][[2004]][18][[2002]][19]
+[[latest]][4][[2018]][5][[2017]][6][[2016]][7][[2015]][8][[2014]][9][[2013]][10][[2012]][11][[2011]][12][[2010]][12][[2009]][13][[2008]][14][[2007]][15][[2006]][16][[2005]][17][[2004]][18][[2002]][19]
 </div>
 {::options parse_block_html="false" /}
 
@@ -96,7 +96,7 @@ arxiv.org/abs/1704.08243, 2017
 
 [A. Chandrasekaran][32]*, [D. Yadav][33]*, [P. Chattopadhyay][34]*, [V. Prabhu][35]*, and Devi Parikh
 
-/* equal contribution
+\* equal contribution
 
 [It Takes Two to Tango: Towards Theory of AI's Mind][36]
 arxiv.org/abs/1704.00717, 2017
@@ -104,9 +104,14 @@ arxiv.org/abs/1704.00717, 2017
 </div>
 </div><hr>
 
-{::options parse_block_html="false" /}
+##### 2018 [[back to top]][37]
+{:.mt-2 .mb-2}
 
-### 2018 [[back to top]][37]
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/punny.png">
+</div>
+<div class="col-sm-7">
 
 [A. Chandrasekaran][32], Devi Parikh, and [M. Bansal][38]
 
@@ -115,11 +120,29 @@ arxiv.org/abs/1704.00717, 2017
 Conference of the North American Chapter of the Association for Computational Linguistics:
 Human Language Technologies (NAACL HLT), 2018.
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/embodiedQA.png">
+</div>
+<div class="col-sm-7">
+
 [A. Das][40], [S. Datta][41], [G. Gkioxari][42], [S. Lee][43], Devi Parikh, and [D. Batra][44]
 
 [Embodied Question Answering][45]
 
 I_EEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2018\. (Oral)
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/neural_baby_talk.png">
+</div>
+<div class="col-sm-7">
 
 [J. Lu][46]*, [J. Yang][47]*, [D. Batra][21], and Devi Parikh
 
@@ -127,13 +150,37 @@ I_EEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2018\. (Ora
 
 I_EEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2018\. (Spotlight)
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/gvqa.png">
+</div>
+<div class="col-sm-7">
+
+
 [A. Agrawal][29], [D. Batra][21], Devi Parikh, and [A. Kembhavi][30]
 
 [Don't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering][49]
 
 I_EEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2018.
 
-**2017** [[back to top]][50]
+</div>
+</div><hr>
+
+{::options parse_block_html="false" /}
+<br>
+##### 2017 [[back to top]][50]
+<br>
+
+{::options parse_block_html="true" /}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/vqa.png">
+</div>
+<div class="col-sm-7">
 
 [A. Das][51], [H. Agrawal][52], [C. L. Zitnick][53], Devi Parikh, and [D. Batra][21]
 
@@ -144,9 +191,18 @@ I_EEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2018.
 
 Computer Vision and Image Understanding (CVIU), 2017
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/vqa.png">
+</div>
+<div class="col-sm-7">
+
 [A. Agrawal][29]*, [J. Lu][55]*, [S. Antol][56]*, [M. Mitchell][57], [C. L. Zitnick][53], Devi Parikh, and [D. Batra][21]
 
-* equal contribution
+\* equal contribution
 
 [VQA: Visual Question Answering][58]
 
@@ -154,16 +210,43 @@ Special Issue on Combined Image and Language Understanding
 
 International Journal of Computer Vision (IJCV), 2017
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/best-of-both-worlds-dialog.png">
+</div>
+<div class="col-sm-7">
+
 [J. Lu][59], [A. Kannan](https://www.google.com/search?q=Anitha+Kannan&ie=utf-8&oe=utf-8), [J. Yang][61], Devi Parikh, and [D. Batra][21]
 
 [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model][62]
 
 Neural Information Processing Systems (NIPS), 2017
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/gradcam.jpg">
+</div>
+<div class="col-sm-7">
+
 [R. R. Selvaraju][63], [M. Cogswell][64], [A. Das][51], [R. Vedantam][65], Devi Parikh, and [D. Batra][21]
 [Grad-CAM: Why did you say that? Visual Explanations from Deep Networks via Gradient-based Localization][66]
 International on Conference Computer Vision (ICCV), 2017
 [[code][67], [demo][68]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/human-ai-game.png">
+</div>
+<div class="col-sm-7">
 
 [P. Chattopadhyay][34]*, [D. Yadav][69]*, [V. Prabhu][35], [A. Chandrasekaran][32], [A. Das][51], [S. Lee][70], [D. Batra][21], and Devi Parikh
 
@@ -171,11 +254,29 @@ International on Conference Computer Vision (ICCV), 2017
 
 AAAI Conference on Human Computation and Crowdsourcing (HCOMP), 2017
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/negotiation.png">
+</div>
+<div class="col-sm-7">
+
 [M. Lewis][72], [D. Yarats][73], [Y. N. Dauphin][74], Devi Parikh, and [D. Batra][21]
 
 [Deal or No Deal? End-to-End Learning for Negotiation Dialogues][75]
 
 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/soundw2v.png">
+</div>
+<div class="col-sm-7">
 
 [A. Vijayakumar][76], [R. Vedantam][65], and Devi Parikh
 
@@ -183,26 +284,71 @@ Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017
 
 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/parlai-logo.png">
+</div>
+<div class="col-sm-7">
+
 [A. Miller][78], W. Feng, [A. Fisch][79], [J. Lu][59], D. Batra, [A. Bordes][80], Devi Parikh, and [J. Weston][81]
 [ParlAI: A Dialog Research Software Platform][82]
 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017 (Demo paper)
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/visual_dialog.png">
+</div>
+<div class="col-sm-7">
 
 [A. Das][51], [S. Kottur][83], [K. Gupta][84], [A. Singh][85], [D. Yadav][69], [J. Moura][86], Devi Parikh, and [D. Batra][21]
 [Visual Dialog][87]
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2017\. (Spotlight)
 [[www.visualdialog.org][88]] [[video][89]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/when-to-look.png">
+</div>
+<div class="col-sm-7">
+
 [J. Lu][59]*, [C. Xiong][90]*, Devi Parikh, and [R. Socher][91]
 
-* equal contribution
+\* equal contribution
 
 [Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning][92]
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2017\. (Spotlight)
 [code coming soon!]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/context-aware_captioning.png">
+</div>
+<div class="col-sm-7">
+
 [R. Vedantam][65], [S. Bengio][93], [K. Murphy][94], Devi Parikh, and [G. Chechik][95]
 [Context-aware Captions from Context-agnostic Supervision][96]
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2017\. (Spotlight)
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/count.png">
+</div>
+<div class="col-sm-7">
 
 [P. Chattopadhyay][34]*, [R. Vedantam][65]*, [R. R. Selvaraju][63], [D. Batra][21], and Devi Parikh
 
@@ -210,18 +356,45 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2017\. (Spo
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2017\. (Spotlight)
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/balanced_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [Y. Goyal][98]*, [T. Khot][99]*, D. Summers-Stay, [D. Batra][21], and Devi Parikh
 [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering][100] (a.k.a. The VQA v2.0 Dataset)
 
-* equal contribution
+\* equal contribution
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2017.
 [[project page][101]] [[video](https://www.youtube.com/watch?v=nMr_sSAMpkE)]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/LR-GAN.png">
+</div>
+<div class="col-sm-7">
 
 [J. Yang][61], [A. Kannan](https://www.google.com/search?q=Anitha+Kannan&ie=utf-8&oe=utf-8), [D. Batra][21], and Devi Parikh
 
 [LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation][103]
 International Conference on Learning Representations (ICLR), 2017
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/attributes-book.jpeg">
+</div>
+<div class="col-sm-7">
 
 [R. Feris][104], [C. Lampert][105], and Devi Parikh (Editors)
 
@@ -231,12 +404,31 @@ Series on Advances in Computer Vision and Pattern Recognition, Springer, 2017
 
 [[springer link][106]]
 
-**2016** [[back to top]][50]
+</div>
+</div><hr>
+
+##### 2016 [[back to top]][50]
+{:. mt-2 .mb-2}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [J. Lu][59], [J. Yang][61], [D. Batra][21], and Devi Parikh
 
 [Hierarchical Question-Image Co-Attention for Visual Question Answering][107]
 Neural Information Processing Systems (NIPS), 2016
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [H. Agrawal][52], [A. Chandrasekaran][32], [D. Batra][21], Devi Parikh and [M. Bansal][108]
 
@@ -244,17 +436,44 @@ Neural Information Processing Systems (NIPS), 2016
 
 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2016
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [A. Ray][110], G. Christie, [M. Bansal][108], [D. Batra][21], and Devi Parikh
 
 [Question Relevance in VQA: Identifying Non-Visual And False-Premise Questions][111]
 
 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2016
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [A. Agarwal][112], [D. Batra][21], and Devi Parikh
 
 [Analyzing the Behavior of Visual Question Answering Models][113]
 
 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2016
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [A. Das][51], [H. Agrawal][52], [C. L. Zitnick][53], Devi Parikh, and [D. Batra][21]
 
@@ -270,6 +489,15 @@ International Conference on Machine Learning (ICML), 2016
 
 Best student paper
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [Y. Goyal][98], [A. Mohapatra][114], Devi Parikh, and [D. Batra][21]
 
 [Towards Transparent AI Systems: Interpreting Visual Question Answering Models][115]
@@ -279,15 +507,42 @@ International Conference on Machine Learning (ICML), 2016
 
 Best student paper
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [X. Lin][25] and Devi Parikh
 
 [Leveraging Visual Question Answering for Image-Caption Ranking][116]
 
 European Conference on Computer Vision (ECCV), 2016
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [A. Dubey][117], [N. Naik][118], Devi Parikh, [R. Raskar][119], and [C. Hidalgo][120].
 [Deep Learning the City: Quantifying Urban Perception at a Global Scale][121]
 European Conference on Computer Vision (ECCV), 2016.
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [C. L. Zitnick][53], [A. Agrawal][29], [S. Antol][56], [M. Mitchell][57], [D. Batra][21], and Devi Parikh
 
@@ -297,23 +552,50 @@ AI Magazine (2016)
 
 [ ][32]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [A. Chandrasekaran][32], [A. Kalyan][122], [S. Antol][56], [M. Bansal][108], [D. Batra][21], [C. L. Zitnick][53], and Devi Parikh
 
 [We Are Humor Beings: Understanding and Predicting Visual Humor][123]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2016\. (Spotlight)
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [P. Zhang][124]*, [Y. Goyal][98]*, D. Summers-Stay, [D. Batra][21], and Devi Parikh
 
-* equal contribution
+\* equal contribution
 
 [Yin and Yang: Balancing and Answering Binary Visual Questions][125]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2016.
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [S. Kottur][83]*, [R. Vedantam][65]*, [J. Moura][86], and Devi Parikh
 
-* equal contribution
+\* equal contribution
 
 [Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes][126]
 
@@ -321,11 +603,29 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2016.
 
 [[project page (including code)][127]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 J. Yang, Devi Parikh, and [D. Batra][21]
 
 [Joint Unsupervised Learning of Deep Representations and Image Clusters][128]
 
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [T. Huang][129], [F. Ferraro][130], [N. Mostafazadeh][131], [I. Misra][132], J. Devlin, [A. Agrawal][112],
 
@@ -338,6 +638,15 @@ Human Language Technologies (NAACL HLT), 2016.
 
 [[project page with dataset][139]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [N. Mostafazadeh][131], [N. Chambers][140], [X. He][134], Devi Parikh, [D. Batra][21], [L. Vanderwende][136], [P. Kohli][135], and [J. Allen][141]
 
 [A Corpus and Cloze Evaluation for Deeper Understanding of Commonsense Stories][142]
@@ -348,9 +657,27 @@ Human Language Technologies (NAACL HLT), 2016\. (Oral)
 
 [[project page with data and evaluation][143]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [S. Lad][144], [B. Romera Paredes][145], J. Valentin, [Philip Torr][146], and Devi Parikh
 [Knowing Who To Listen To: Prioritizing Experts from a Diverse Ensemble for Attribute Personalization][147]
 International Conference on Image Processing (ICIP), 2016.
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [C. L. Zitnick][53], [R. Vedantam][65] and Devi Parikh
 
@@ -364,6 +691,15 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2016.
 
 [[project page, data, slides, video, etc.][149]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [R. Mottaghi][150], [S. Fidler][151], [A. Yuille][152], [R. Urtasun][153], and Devi Parikh.
 
 [Human-Machine CRFs for Identifying Bottlenecks in Scene Understanding][154]
@@ -372,11 +708,24 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2016.
 
 [[supplementary material][155]]
 
-**2015** [[back to top]][50] 
+</div>
+</div><hr>
+{::options parse_block_html="false" /}
+
+##### 2015 [[back to top]][50] 
+{:. mt-2 mb-2}
+
+{::options parse_block_html="true" /}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [S. Antol][56]*, [A. Agrawal][29]*, [J. Lu][55], [M. Mitchell][57], [D. Batra][21], [C. L. Zitnick][53], and Devi Parikh
 
-* equal contribution
+\* equal contribution
 
 [VQA: Visual Question Answering][156]
 
@@ -384,15 +733,33 @@ _International Conference on Computer Vision (ICCV),_ 2015.
 
 [[project page][157]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [R. Vedantam][65]*, [X. Lin][25]*, T. Batra, [C. L. Zitnick][53], and Devi Parikh
 
-* equal contribution
+\* equal contribution
 
 [Learning Common Sense Through Visual Abstraction][158]
 
 _International Conference on Computer Vision (ICCV),_ 2015.
 
 [[supplementary material][159]] [[project page][160] (under construction)]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [X. Lin][25] and Devi Parikh
 
@@ -402,20 +769,46 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2015\. (Ora
 
 [[extended abstract][162]] [[talk (video)][163]] [[project page with code, data, slides, etc.][164]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [M. Jas][165] and Devi Parikh
 
-[Image Specificity
-](http://arxiv.org/abs/1502.04569)
+[Image Specificity](http://arxiv.org/abs/1502.04569)
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2015\. (Oral)
 
 [[extended abstract][166]] [[talk (video)][167]] [[project page with code, data, slides, etc.][168]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [A. Deza][169] and Devi Parikh
 
 [Understanding Image Virality][170]
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2015.
 [[extended abstract][171]] [[project page with code, data, etc.][172]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [R][65][. Vedantam][65], [C. L. Zitnick][53], and Devi Parikh
 
@@ -425,13 +818,33 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2015.
 
 [[extended abstract][174]] [[project page with code, data, etc.][175]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [A][176][. Kovashka][176], Devi Parikh and [K. Grauman][177]
 
 WhittleSearch: Interactive Image Search with Relative Attribute Feedback
 
 _International Journal of Computer Vision (IJCV),_ 2015
 
-**2014** [[back to top]][50] 
+</div>
+</div><hr>
+
+
+##### 2014 [[back to top]][50] 
+{:.mt-2 .mb-2}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [S. Antol][56], [C. L. Zitnick][53] and Devi Parikh
 
@@ -441,6 +854,15 @@ European _Conference on Computer Vision (ECCV),_ 2014.
 
 [[project page][179]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [S. Lad][144] and Devi Parikh
 
 [Interactively Guiding Semi-Supervised Clustering via Attribute-based Explanations][180].
@@ -448,6 +870,15 @@ European _Conference on Computer Vision (ECCV),_ 2014.
 European _Conference on Computer Vision (ECCV),_ 2014.
 
 [[project page][181]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [A. Bansal][182], [A. Farhadi][183] and Devi Parikh
 
@@ -457,11 +888,29 @@ European _Conference on Computer Vision (ECCV),_ 2014.
 
 [[project page][185]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [P. Isola][186], Devi Parikh, [J. Xiao][187], [A. Torralba][188] and [A. Oliva][189]
 
 [What makes a photograph memorable?][190]
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2014.
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [P. Zhang][124], J. Wang, [A. Farhadi][183], [M. Hebert][191] and Devi Parikh
 
@@ -471,6 +920,15 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2014.
 
 [[project page][193]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 G. Christie, [A. Parkash][194], U. Krothapalli and Devi Parikh
 
 [Predicting User Annoyance Using Visual Attributes][195]
@@ -478,6 +936,15 @@ G. Christie, [A. Parkash][194], U. Krothapalli and Devi Parikh
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2014.
 
 [[project page][196]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [X. Lin][25], M. Cogswell, Devi Parikh and [D. Batra][21]
 
@@ -489,7 +956,21 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2014.
 
 [[project page][198]]
 
-**2013** [[back to top]][50] 
+</div>
+</div><hr>
+
+{::options parse_block_html="false" /}
+
+##### 2013 [[back to top]][50] 
+{:.mt-2 .mb-2}
+
+{::options parse_block_html="true" /}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [A. Bansal][182], [A. Kowdle][199], Devi Parikh, [A. C. Gallagher][200] and [C. L. Zitnick][53]
 
@@ -498,11 +979,29 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2014.
 Workshop on 3D Representation and Recognition (3dRR)
 International Conference on Computer Vision (ICCV), 2013.
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 Devi Parikh
 
 [Visual Attributes for Enhanced Human-Machine Communication][202] (Invited paper)
 
 Allerton Conference on Communication, Control and Computing, 2013\. (Oral)
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [N. Turakhia][203] and Devi Parikh
 
@@ -512,6 +1011,15 @@ _International Conference on Computer Vision (ICCV),_ 2013.
 
 [[project page and data][205]] [[poster][206]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [A. Sadovnik][207], [A. C. Gallagher][200], Devi Parikh and [T. Chen](http://www.engineering.cornell.edu/research/faculty/profile.cfm?netid=tc345)
 
 [Spoken Attributes: Mixing Binary and Relative Attributes to Say the Right Thing][209]
@@ -519,6 +1027,15 @@ _International Conference on Computer Vision (ICCV),_ 2013.
 _International Conference on Computer Vision (ICCV)_, 2013.
 
 [[project page and data][210]] [[poster][211]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh and [K. Grauman][177]
 
@@ -528,6 +1045,15 @@ _International Conference on Computer Vision (ICCV)_, 2013.
 
 [[supp material][213]] [[poster][214]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [C. L. Zitnick][53], Devi Parikh and [L. Vanderwende][136]
 
 [Learning the Visual Interpretation of Sentences][215]
@@ -535,6 +1061,15 @@ _International Conference on Computer Vision (ICCV)_, 2013.
 _International Conference on Computer Vision (ICCV),_ 2013.
 
 [[project page, data, slides, video, etc.][149]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [C. L. Zitnick][53] and Devi Parikh
 
@@ -544,6 +1079,15 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013 (Oral
 
 [[project page, data, slides, video, etc.][149]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [R. Mottaghi][217], [S. Fidler][218], [J. Yao][219], [R. Urtasun][220] and Devi Parikh
 
 [Analyzing Semantic Segmentation Using Hybrid Human-Machine CRFs][221]
@@ -551,6 +1095,15 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013 (Oral
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
 
 [[poster][222]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [A. Biswas][223] and Devi Parikh
 
@@ -560,6 +1113,15 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
 
 [[project page and data][225]] [[poster][226]] [[demo][227]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [M. Rastegari][228], A. Diba, Devi Parikh and [A. Farhadi][183]
 
 [Multi-Attribute Queries: To Merge or Not to Merge?][229]
@@ -568,13 +1130,36 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
 
 [[poster][230]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 N. Agrawal, [A. Biswas][223], [A][176][. Kovashka][176], [K. Grauman][177] and Devi Parikh
 
 Relative Attributes for Enhanced Human-Machine Communication
 
 [Demo][231] at _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
 
-**2012** [[back to top]][37] 
+</div>
+</div><hr>
+
+{::options parse_block_html="false" /}
+
+##### 2012 [[back to top]][37] 
+{:.mt-2 .mb-2}
+
+{::options parse_block_html="true" /}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [A. Parkash][194] and Devi Parikh
 
@@ -584,6 +1169,15 @@ European Conference on Computer Vision (ECCV), 2012 (Oral)
 
 [[slides][233]] [[talk (video)][234]] [[project page and data][225]] [[demo][227]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 Devi Parikh, [A][176][. Kovashka][176], [A. Parkash][194] and [K. Grauman][177]
 
 [Relative Attributes for Enhanced Human-Machine Communication][235] (Invited paper)
@@ -591,6 +1185,15 @@ Devi Parikh, [A][176][. Kovashka][176], [A. Parkash][194] and [K. Grauman][177]
 _AAAI Conference on Artificial Intelligence (AAAI)_ 2012 (Oral)
 
 [[demos][231]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [C. Li][236], Devi Parikh and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
@@ -600,6 +1203,15 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
 [[project page][239]] [[poster][240]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [A][176][. Kovashka][176], Devi Parikh and [K. Grauman][177]
 
 [WhittleSearch: Image Search with Relative Attribute Feedback][241]
@@ -607,6 +1219,15 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
 [[project page and data][242]] [[poster][243]] [[demo][244]] [[video][245]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [K. Duan][246], Devi Parikh, [D. Crandall][247] and [K. Grauman][177]
 
@@ -616,6 +1237,15 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
 [[project page][249]] [[poster][250]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [C. L. Zitnick][53] andDevi Parikh
 
 [The Role of Image Understanding in Contour Detection][251]
@@ -623,6 +1253,15 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
 [[project page][252]] [[data][253]] [[poster][254]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh, [P. Isola][186], [A. Torralba][188] and [A. Oliva][255]
 
@@ -632,13 +1271,37 @@ Visual Sciences Society (VSS), 2012
 
 [[project page][256]] [[MIT news][257]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 Devi Parikh, [C. L. Zitnick][53] and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
 [E][258][xploring Tiny Images: The Roles of Appearance and Contextual Information for Machine and Human Object Recognition][258]
 
 _Pattern Analysis and Machine Intelligence (PAMI), 2012_
 
-**2011** [[back to top]][37] 
+
+</div>
+</div><hr>
+
+{::options parse_block_html="false" /}
+
+##### 2011 [[back to top]][37] 
+{:.mt-2 .mb-2}
+
+{::options parse_block_html="true" /}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh and [C. L. Zitnick][53]
 
@@ -648,6 +1311,15 @@ Devi Parikh and [C. L. Zitnick][53]
 
 _Neural Information Processing Systems (NIPS),_ 2011
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [D. Batra][261], [A. Kowdle][262], Devi Parikh, J. Luo, [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
 Interactive Co-segmentation of Objects in Image Collections (Book)
@@ -656,6 +1328,15 @@ SpringerBriefs in Computer Science, 2011.
 
 [[springer link](http://www.springer.com/computer/image+processing/book/978-1-4614-1914-3)]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [P. Isola][186], Devi Parikh, [A. Torralba][188] and [A. Oliva][255]
 
 [Understanding the Intrinsic Memorability of Images][264]
@@ -663,6 +1344,15 @@ SpringerBriefs in Computer Science, 2011.
 Neural Information Processing Systems (NIPS), 2011
 
 [[project page][256]] [[MIT news][257]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh and[K. Grauman][177]
 
@@ -674,6 +1364,15 @@ Marr Prize (Best Paper Award) Winner
 
 [[project page][266]] [[data][267]] [[code][268]] [[slides][269]] [[talk (video)][270]] [[poster][271]] [[demos][231]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 Devi Parikh
 
 [Recognizing Jumbled Images: The Role of Local and Global Information in Image Classification][272]
@@ -681,6 +1380,15 @@ Devi Parikh
 _International Conference on Computer Vision (ICCV),_ 2011
 
 [[poster][273]] [[slides][274]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [C. Li][236], Devi Parikh and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
@@ -690,6 +1398,15 @@ _International Conference on Computer Vision (ICCV),_ 2011
 
 [[project page][276]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 Devi Parikh and [C. L. Zitnick][53]
 
 [Finding the Weakest Link in Person Detectors][277]
@@ -698,6 +1415,15 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011
 
 [[project page][278]] [[data][279]] [[poster][280]] [[slides][281]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 Devi Parikh and[K. Grauman][177]
 
 [Interactively Building a Discriminative Vocabulary of Nameable Attributes][282]
@@ -705,6 +1431,15 @@ Devi Parikh and[K. Grauman][177]
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011
 
 [[supplementary material][283]] [[project page][284]] [[poster][285]] [[slides][286]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh and [K. Grauman][177]
 
@@ -718,11 +1453,29 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011 (Best
 
 [[project page][284]] [[poster][285]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [A. Gallagher][200], [D. Batra][261] and Devi Parikh
 
 [Inference for Order Reduction in MRFs][289]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2011
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [D. Batra][261], [A. Kowdle][262], Devi Parikh, J. Luo, [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
@@ -732,21 +1485,55 @@ _International Journal of Computer Vision (IJCV),_ January 2011
 
 [[project page and dataset][291]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [C. L. Zitnick][53] and Devi Parikh
 
 [Color Source Separation for Enhanced Pixel Manipulations][292]
 
 MSR-TR-2011-98, Microsoft Research, 2011
 
-**2010** [[back to top]][37]
+</div>
+</div><hr>
+
+{::options parse_block_html="false" /}
+
+##### 2010 [[back to top]][37]
+{:.mt-2 .mb-2}
+
+{::options parse_block_html="true" /}
 
 Devi Parikh and [C. L. Zitnick][53]
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 
 [The Role of Features, Algorithms and Data in Visual Recognition][293]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2010_
 
 [[poster][294]] [[slides][295]]
+
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [D. Batra][261], [A. Gallagher][200], Devi Parikh, [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
@@ -756,6 +1543,15 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2010
 
 [[poster][297]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [D. Batra][261], [A. Kowdle][262], Devi Parikh, J. Luo, [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
 [iCoseg: Interactive Co-segmentation with Intelligent Scribble Guidance][298]
@@ -764,7 +1560,21 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2010 
 
 [[poster][299]] [[project page and dataset]][291]
 
-**2009** [[back to top]][37]
+</div>
+</div><hr>
+
+{::options parse_block_html="false" /}
+
+##### 2009 [[back to top]][37]
+{:.mt-2 .mb-2}
+
+{::options parse_block_html="true" /}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh
 
@@ -772,11 +1582,29 @@ Devi Parikh
 
 Ph.D. Thesis, Carnegie Mellon University, 2009
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [D. Batra][261], Devi Parikh, [A. Kowdle][199], [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345) and J. Luo
 
 [Seed Image Selection in Interactive Cosegmentation][301]
 
 _IEEE International Conference on Image Processing (ICIP)_, 2009
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh, [C. L. Zitnick][53] and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
@@ -786,11 +1614,29 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2009
 
 [[poster][303]] [[slides][304]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [D. Batra][261], [A. Kowdle][199], Devi Parikh and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
 [Cutout-Search: Putting a name to the Picture][305]
 
 _Workshop on Internet Vision, IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2009
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [D. Batra][261], [A. Kowdle][262], K. Tang, Devi Parikh, J. Luo, [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
@@ -800,13 +1646,35 @@ Demo at _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 200
 
 [[project page][306]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 C. Mao, H. Lee, Devi Parikh, [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345) and S. Huang
 
 Semi-Supervised Cotraining and Active Learning based Approach for Multi-view Intrusion Detection
 
 _ACM Symposium on Applied Computing (SAC),_ 2009
 
-**2008** [[back to top]][37]
+</div>
+</div><hr>
+{::options parse_block_html="false" /}
+
+##### 2008 [[back to top]][37]
+{:.mt-2 .mb-2}
+
+{::options parse_block_html="true" /}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345/)
 
@@ -818,6 +1686,15 @@ _Special Issue on Patches in Vision,_ 2008
 
 [[slides][309]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 Devi Parikh and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345/)
 
 [Data Fusion and Cost Minimization for Intrusion Detection][310]
@@ -826,11 +1703,29 @@ _IEEE Transactions on Information Forensics and Security_
 
 _Special Issue on Statistical Methods for Network Security and Forensics,_ August 2008
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 [R. Polikar][311], A. Topalis, Devi Parikh, D. Green, J. Kounios and C. Clark
 
 [An Ensemble Based Data Fusion for Early Diagnosis of Alzheimer's Disease][312]
 
 _Information Fusion,_ _Special Issue on Applications of Ensemble Methods,_ January 2008
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh, [C. L. Zitnick][53] and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
@@ -840,6 +1735,15 @@ _European Conference on Computer Vision (ECCV)_, 2008
 
 [[poster][314]] [[slides][315]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 Devi Parikh, [C. L. Zitnick][53] and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
 [From Appearance to Context-Based Recognition: Dense Labeling in Small Images][316]
@@ -847,6 +1751,15 @@ Devi Parikh, [C. L. Zitnick][53] and [T. Chen](http://www.ece.cornell.edu/ece/pe
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2008
 
 [[poster][317]] [[slides][318]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
@@ -856,6 +1769,15 @@ _International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_,
 
 [[slides][320]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 Devi Parikh and [G. Jancke][321]
 
 [Localization and Segmentation of a 2D High Capacity Color Barcode][322]
@@ -864,13 +1786,35 @@ _Workshop on Applications in Computer Vision (WACV)_, 2008
 
 [[slides][323]] 
 
-**2007** [[back to top]][37]
+</div>
+</div><hr>
+
+{::options parse_block_html="false" /}
+
+##### 2007 [[back to top]][37]
+
+{::options parse_block_html="true" /}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh and [R.Polikar][311]
 
 [An Ensemble Based Incremental Learning Approach to Data Fusion][324]
 
 _IEEE Transactions on Systems, Man and Cybernetics,_ April 2007
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
@@ -880,6 +1824,15 @@ _Asian Conference in Computer Vision (ACCV)_, 2007
 
 [[poster][326]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 Devi Parikh and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
 [Hierarchical Semantics of Objects (hSOs)][327]
@@ -888,6 +1841,15 @@ _IEEE International Conference in Computer Vision (ICCV)_, 2007
 
 [[poster][328]] [[slides][309]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 D.Parikh and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
 [Classification-Error Cost Minimization Strategy: dCMS][329]
@@ -895,6 +1857,15 @@ D.Parikh and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=t
 _IEEE Statistical Signal Processing Workshop_, 2007
 
 [[poster][330]]
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 D.Parikh and [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
@@ -906,6 +1877,15 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2007 **(Bes
 
 [[slides][332]]
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 Devi Parikh, [R. Sukthankar][333], [T. Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345) and [M. Chen][334]
 
 [Feature-based Part Retrieval for Interactive 3D Reassembly][335]
@@ -914,7 +1894,21 @@ _IEEE Workshop on Applications of Computer Vision (WACV)_, 2007
 
 [[poster][336]] [[slides][337]]
 
-**2006** [[back to top]][37]
+</div>
+</div><hr>
+
+{::options parse_block_html="false" /}
+
+##### 2006 [[back to top]][37]
+{:.mt-2 .mb-2}
+
+{::options parse_block_html="true" /}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 R. Polikar, Devi Parikh and [S. Mandayam][338]
 
@@ -922,7 +1916,21 @@ R. Polikar, Devi Parikh and [S. Mandayam][338]
 
 _IEEE Proceedings on Sensors Applications Symposium_, 2006
 
-**2005** [[back to top]][37]
+</div>
+</div><hr>
+
+{::options parse_block_html="false" /}
+
+##### 2005 [[back to top]][37]
+{:.mt-2 .mb-2}
+
+{::options parse_block_html="true" /}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 [Y. Mehta][340], [K. Jahan][341], J. Laicovsky, L. Miller, Devi Parikh and A. Lozano
 
@@ -930,11 +1938,29 @@ _IEEE Proceedings on Sensors Applications Symposium_, 2006
 
 _The Journal of Solid Waste Technology And Management_, 2005
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 Devi Parikh, N. Stepenosky, A. Topalis, D. Green, J. Kounios, C. Clark and [R.Polikar][311]
 
 [Ensemble Based Data Fusion for Early Diagnosis of Alzheimer's Disease][343]
 
 _IEEE Proceedings on The Engineering in Medicine and Biology_, 2005
+
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh and [R.Polikar][311]
 
@@ -942,7 +1968,21 @@ Devi Parikh and [R.Polikar][311]
 
 _IEEE Proceedings on Information Fusion_, 2005
 
-**2004** [[back to top]][37]
+</div>
+</div><hr>
+
+{::options parse_block_html="false" /}
+
+##### 2004 [[back to top]][37]
+{:.mt-2 .mb-2}
+
+{::options parse_block_html="true" /}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh, M. Kim, J. Oagaro, [S.Mandayam][338] and [R.Polikar][311]
 
@@ -950,13 +1990,36 @@ Devi Parikh, M. Kim, J. Oagaro, [S.Mandayam][338] and [R.Polikar][311]
 
 _IEEE Proceedings on Systems, Man and Cybernetics_, 2004
 
+</div>
+</div><hr>
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
+
 Devi Parikh, M. Kim, J. Oagaro, [S.Mandayam][338] and [R.Polikar][311]
 
 [Ensemble of Classifiers Approach for NDT Data Fusion][346]
 
 _IEEE Proceedings on Ultrasonics, Ferroelectrics and Frequency Control_, 2004
 
-**2002** [[back to top]][37]
+</div>
+</div><hr>
+
+{::options parse_block_html="false" /}
+
+##### 2002 [[back to top]][37]
+{:.mt-2 .mb-2}
+
+{::options parse_block_html="true" /}
+
+<div class="row vertical-align">
+<div class="col-sm-5">
+<img alt="topics" src="{{ site.baseurl }}/static/img/pub/toaim_vqa.png">
+</div>
+<div class="col-sm-7">
 
 Devi Parikh, [Y. Mehta][340] and [K. Jahan][341]
 
@@ -966,26 +2029,30 @@ _Proceedings of Industrial and Hazardous Waste Conference_, 2002
 
 Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it is only $2, from China. Learn to solve it with the tutorial on rubiksplace.com or use the [solver to calculate][348] the solution in a few steps.
 
+</div>
+</div><hr>
+
+{::options parse_block_html="false" /}
 
 [1]: CVL.html
 [2]: publications_topic.htm
 [3]: publications.htm
-[4]: publications.htm#latest
+[4]: #latest
 [5]: #2018-back-to-top
-[6]: publications.htm#2017
-[7]: publications.htm#2016
-[8]: publications.htm#2015
-[9]: publications.htm#2014
-[10]: publications.htm#2013
-[11]: #2012
-[12]: #2011
-[13]: #2009
-[14]: #2008
-[15]: #2007
-[16]: #2006
-[17]: #2005
-[18]: #2004
-[19]: #2002
+[6]: #2017-back-to-top
+[7]: #2016-back-to-top
+[8]: #2015-back-to-top
+[9]: #2014-back-to-top
+[10]: #2013-back-to-top
+[11]: #2012-back-to-top
+[12]: #2011-back-to-top
+[13]: #2009-back-to-top
+[14]: #2008-back-to-top
+[15]: #2007-back-to-top
+[16]: #2006-back-to-top
+[17]: #2005-back-to-top
+[18]: #2004-back-to-top
+[19]: #2002-back-to-top
 [20]: https://bi.snu.ac.kr/%7Ejhkim/
 [21]: https://filebox.ece.vt.edu/%7Edbatra/
 [22]: https://bi.snu.ac.kr/%7Ebtzhang/
@@ -1016,7 +2083,7 @@ Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it i
 [47]: https://www.cc.gatech.edu/grads/j/jyang375/
 [48]: https://arxiv.org/abs/1803.09845
 [49]: https://arxiv.org/abs/1712.00377
-[50]: publications.htm#top
+[50]: #top
 [51]: http://abhishekdas.com/about/
 [52]: https://www.linkedin.com/in/harsh092
 [53]: http://larryzitnick.org/

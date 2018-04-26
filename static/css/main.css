@@ -240,7 +240,7 @@ pre {
 }
 
 .pub .col-sm-5 p {
-  text-align: left;
+  text-align: center;
   margin-bottom: 0;
 }
 
@@ -250,6 +250,10 @@ pre {
 
 .pub hr {
   margin: .75rem 0;
+}
+
+.pub h5 a {
+  font-size: medium;
 }
 
 @media screen and (max-width: 991px) {
@@ -288,7 +292,26 @@ pre {
   .pub .col-sm-7 p {
     line-height: 18px;
   }
+  .pub .col-sm-5 p {
+    text-align: left;
+  }
  /*  .pub .col-sm-5 p img {
     max-height: 95px;
   } */
+}
+
+/* Utility class */
+
+.mt-1 {
+  margin-top: 10px;
+}
+.mt-2 {
+  margin-top: 20px;
+}
+
+.mb-1 {
+  margin-bottom: 10px;
+}
+.mb-2 {
+  margin-bottom: 20px;
 }
