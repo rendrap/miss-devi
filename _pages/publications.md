@@ -17,7 +17,7 @@ favicon: ./static/img/devi/devi.png
 
 {::options parse_block_html="true" /}
 <div class="year-links">
-[[latest]][4][[2018]][5][[2017]][6][[2016]][7][[2015]][8][[2014]][9][[2013]][10][[2012]][11][[2011]][12][[2010]][12][[2009]][13][[2008]][14][[2007]][15][[2006]][16][[2005]][17][[2004]][18][[2002]][19]
+[[latest]][4][[2018]][5][[2017]][6][[2016]][7][[2015]][8][[2014]][9][[2013]][10][[2012]][11][[2011]][12][[2010]][2010][[2009]][13][[2008]][14][[2007]][15][[2006]][16][[2005]][17][[2004]][18][[2002]][19]
 </div>
 {::options parse_block_html="false" /}
 
@@ -2037,7 +2037,7 @@ Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it i
 [1]: CVL.html
 [2]: publications_topic.htm
 [3]: publications.htm
-[4]: #latest
+[4]: #latest-arxiv-manuscripts
 [5]: #2018-back-to-top
 [6]: #2017-back-to-top
 [7]: #2016-back-to-top
@@ -2046,6 +2046,7 @@ Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it i
 [10]: #2013-back-to-top
 [11]: #2012-back-to-top
 [12]: #2011-back-to-top
+[2010]: #2010-back-to-top
 [13]: #2009-back-to-top
 [14]: #2008-back-to-top
 [15]: #2007-back-to-top
