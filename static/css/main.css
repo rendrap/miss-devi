@@ -245,7 +245,8 @@ pre {
 }
 
 .pub .col-sm-5 p img {
-  max-height: 95px;
+  /* max-height: 95px; */
+  max-width: 350px;
 }
 
 .pub hr {
@@ -295,9 +296,9 @@ pre {
   .pub .col-sm-5 p {
     text-align: left;
   }
- /*  .pub .col-sm-5 p img {
+  .pub .col-sm-5 p img {
     max-height: 95px;
-  } */
+  }
 }
 
 /* Utility class */
