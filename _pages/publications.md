@@ -1,6 +1,6 @@
 ---
 layout: pub
-urltitle:  "Devi Parikh"
+urltitle: "Devi Parikh"
 title: "Devi Parikh"
 categories: Devi Parikh, Facebook AI Research, Georgia Tech, AI, Artificial Intelligence, Computer Vision, Natural Language Processing
 permalink: /publications
@@ -187,7 +187,7 @@ I_EEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2018.
 [Abhishek Das][a-das], [Harsh Agrawal][h-agra], [C. Lawrence Zitnick][c-lawrence], Devi Parikh, and [Dhruv Batra][d-batra]
 
 [Human Attention in Visual Question Answering:
-](http://arxiv.org/abs/1606.03556)
+][arx-1606]
 
 [Do Humans and Deep Networks Look at the Same Regions?][do-humans]
 
@@ -1108,13 +1108,13 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013 (Oral
 </div>
 <div class="col-sm-7">
 
-[Roozbeh Mottaghi][erooz], [Sanja Fidler][218], [Jian Yao][219], [Raquel Urtasun][220] and Devi Parikh
+[Roozbeh Mottaghi][erooz], [Sanja Fidler][fidler], [Jian Yao][eyao], [Raquel Urtasun][erurta] and Devi Parikh
 
-[Analyzing Semantic Segmentation Using Hybrid Human-Machine CRFs][221]
+[Analyzing Semantic Segmentation Using Hybrid Human-Machine CRFs][debug-crf]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
 
-[[poster][222]]
+[[poster][debug-crf-poster]]
 
 </div>
 </div><hr>
@@ -1125,13 +1125,13 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
 </div>
 <div class="col-sm-7">
 
-[Arijit Biswas][223] and Devi Parikh
+[Arijit Biswas][earijit] and Devi Parikh
 
-[Simultaneous Active Learning of Classifiers & Attributes via Relative Feedback][224]
+[Simultaneous Active Learning of Classifiers & Attributes via Relative Feedback][att-feedback]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
 
-[[project page and data][225]] [[poster][226]] [[demo][227]]
+[[project page and data][att-feed]] [[poster][att-feed-poster]] [[demo][class-feed]]
 
 </div>
 </div><hr>
@@ -1142,13 +1142,13 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
 </div>
 <div class="col-sm-7">
 
-[Mohammad Rastegari][228], A. Diba, Devi Parikh and [Ali Farhadi][eali]
+[Mohammad Rastegari][emra], A. Diba, Devi Parikh and [Ali Farhadi][eali]
 
-[Multi-Attribute Queries: To Merge or Not to Merge?][229]
+[Multi-Attribute Queries: To Merge or Not to Merge?][cvpr13]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
 
-[[poster][230]]
+[[poster][cvpr13-pos]]
 
 </div>
 </div><hr>
@@ -1159,11 +1159,11 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
 </div>
 <div class="col-sm-7">
 
-N. Agrawal, [Arijit Biswas][223], [Adriana Kovashka][kovas], [Kristen Grauman][grauman] and Devi Parikh
+N. Agrawal, [Arijit Biswas][earijit], [Adriana Kovashka][kovas], [Kristen Grauman][grauman] and Devi Parikh
 
 Relative Attributes for Enhanced Human-Machine Communication
 
-[Demo][231] at _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
+[Demo][demos] at _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
 
 </div>
 </div><hr>
@@ -1183,11 +1183,11 @@ Relative Attributes for Enhanced Human-Machine Communication
 
 [Amar Parkash][apark] and Devi Parikh
 
-[Attributes for Classifier Feedback][232]
+[Attributes for Classifier Feedback][eccv-att]
 
 European Conference on Computer Vision (ECCV), 2012 (Oral)
 
-[[slides][233]] [[talk (video)][234]] [[project page and data][225]] [[demo][227]]
+[[slides][clas-fed-ppt]] [[talk (video)][eccv12-att]] [[project page and data][att-feed]] [[demo][class-feed]]
 
 </div>
 </div><hr>
@@ -1200,11 +1200,11 @@ European Conference on Computer Vision (ECCV), 2012 (Oral)
 
 Devi Parikh, [Adriana Kovashka][kovas], [Amar Parkash][apark] and [Kristen Grauman][grauman]
 
-[Relative Attributes for Enhanced Human-Machine Communication][235] (Invited paper)
+[Relative Attributes for Enhanced Human-Machine Communication][relative-att] (Invited paper)
 
 _AAAI Conference on Artificial Intelligence (AAAI)_ 2012 (Oral)
 
-[[demos][231]]
+[[demos][demos]]
 
 </div>
 </div><hr>
@@ -1215,13 +1215,13 @@ _AAAI Conference on Artificial Intelligence (AAAI)_ 2012 (Oral)
 </div>
 <div class="col-sm-7">
 
-[Congcong Li][236], Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Congcong Li][congcong], Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
-[Automatic Discovery of Groups of Objects for Scene Understanding][238]
+[Automatic Discovery of Groups of Objects for Scene Understanding][group-obj]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
-[[project page][239]] [[poster][240]]
+[[project page][obj-gr]] [[poster][obj-gr-pos]]
 
 </div>
 </div><hr>
@@ -1234,11 +1234,11 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
 [Adriana Kovashka][kovas], Devi Parikh and [Kristen Grauman][grauman]
 
-[WhittleSearch: Image Search with Relative Attribute Feedback][241]
+[WhittleSearch: Image Search with Relative Attribute Feedback][whit-search]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
-[[project page and data][242]] [[poster][243]] [[demo][244]] [[video][245]]
+[[project page and data][whit-search.edu]] [[poster][whit-search-pos]] [[demo][whit-demo]] [[video][whit-mp4]]
 
 </div>
 </div><hr>
@@ -1249,13 +1249,13 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 </div>
 <div class="col-sm-7">
 
-[Kun Duan][246], Devi Parikh, [David J. Crandall][247] and [Kristen Grauman][grauman]
+[Kun Duan][ekduan], Devi Parikh, [David J. Crandall][Edjc] and [Kristen Grauman][grauman]
 
-[Discovering Localized Attributes for Fine-grained Recognition][248]
+[Discovering Localized Attributes for Fine-grained Recognition][local-attrib]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
-[[project page][249]] [[poster][250]]
+[[project page][attrib-discov]] [[poster][attrib-pos]]
 
 </div>
 </div><hr>
@@ -1268,11 +1268,11 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
 [C. Lawrence Zitnick][c-lawrence] andDevi Parikh
 
-[The Role of Image Understanding in Contour Detection][251]
+[The Role of Image Understanding in Contour Detection][contour]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
-[[project page][252]] [[data][253]] [[poster][254]]
+[[project page][cont-html]] [[data][cont-html#data]] [[poster][cont-12-pos]]
 
 </div>
 </div><hr>
@@ -1283,13 +1283,13 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 </div>
 <div class="col-sm-7">
 
-Devi Parikh, [Phillip Isola][phillipi], [Antonio Torralba][torra] and [Aude Oliva][255]
+Devi Parikh, [Phillip Isola][phillipi], [Antonio Torralba][torra] and [Aude Oliva][aude]
 
 Understanding the Intrinsic Memorability of Images (Abstract)
 
 Visual Sciences Society (VSS), 2012
 
-[[project page][256]] [[MIT news][257]]
+[[project page][memorability]] [[MIT news][oliva]]
 
 </div>
 </div><hr>
@@ -1302,7 +1302,7 @@ Visual Sciences Society (VSS), 2012
 
 Devi Parikh, [C. Lawrence Zitnick][c-lawrence] and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
-[E][258][xploring Tiny Images: The Roles of Appearance and Contextual Information for Machine and Human Object Recognition][258]
+[E][pami11][xploring Tiny Images: The Roles of Appearance and Contextual Information for Machine and Human Object Recognition][pami11]
 
 _Pattern Analysis and Machine Intelligence (PAMI), 2012_
 
@@ -1325,9 +1325,9 @@ _Pattern Analysis and Machine Intelligence (PAMI), 2012_
 
 Devi Parikh and [C. Lawrence Zitnick][c-lawrence]
 
-[Human-Debugging of Machines][259]
+[Human-Debugging of Machines][human-debug11]
 
-[_Second Workshop on Computational Social Science and the Wisdom of Crowds_][260]
+[_Second Workshop on Computational Social Science and the Wisdom of Crowds_][nips-2011]
 
 _Neural Information Processing Systems (NIPS),_ 2011
 
@@ -1340,7 +1340,7 @@ _Neural Information Processing Systems (NIPS),_ 2011
 </div>
 <div class="col-sm-7">
 
-[Dhruv Batra][261], [Adarsh Kowdle][262], Devi Parikh, Jiasen Luo, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], Devi Parikh, Jiasen Luo, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
 Interactive Co-segmentation of Objects in Image Collections (Book)
 
@@ -1357,13 +1357,13 @@ SpringerBriefs in Computer Science, 2011.
 </div>
 <div class="col-sm-7">
 
-[Phillip Isola][phillipi], Devi Parikh, [Antonio Torralba][torra] and [Aude Oliva][255]
+[Phillip Isola][phillipi], Devi Parikh, [Antonio Torralba][torra] and [Aude Oliva][aude]
 
-[Understanding the Intrinsic Memorability of Images][264]
+[Understanding the Intrinsic Memorability of Images][nips11-mem]
 
 Neural Information Processing Systems (NIPS), 2011
 
-[[project page][256]] [[MIT news][257]]
+[[project page][memorability]] [[MIT news][oliva]]
 
 </div>
 </div><hr>
@@ -1376,13 +1376,13 @@ Neural Information Processing Systems (NIPS), 2011
 
 Devi Parikh and [Kristen Grauman][grauman]
 
-[Relative Attributes][265]
+[Relative Attributes][iccv11-rel]
 
 _International Conference on Computer Vision (ICCV),_ 2011 (Oral)
 
 Marr Prize (Best Paper Award) Winner
 
-[[project page][266]] [[data][267]] [[code][268]] [[slides][269]] [[talk (video)][270]] [[poster][271]] [[demos][231]]
+[[project page][rel]] [[data][rel#data]] [[code][rel#code]] [[slides][rel-att-ppt]] [[talk (video)][231-m4v]] [[poster][par-grauman]] [[demos][demos]]
 
 </div>
 </div><hr>
@@ -1395,11 +1395,11 @@ Marr Prize (Best Paper Award) Winner
 
 Devi Parikh
 
-[Recognizing Jumbled Images: The Role of Local and Global Information in Image Classification][272]
+[Recognizing Jumbled Images: The Role of Local and Global Information in Image Classification][puzzled]
 
 _International Conference on Computer Vision (ICCV),_ 2011
 
-[[poster][273]] [[slides][274]]
+[[poster][jumbled-pos]] [[slides][jumbled-img]]
 
 </div>
 </div><hr>
@@ -1410,13 +1410,13 @@ _International Conference on Computer Vision (ICCV),_ 2011
 </div>
 <div class="col-sm-7">
 
-[Congcong Li][236], Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Congcong Li][congcong], Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
-[Extracting Adaptive Contextual Cues from Unlabeled Regions][275]
+[Extracting Adaptive Contextual Cues from Unlabeled Regions][jumbled-unlabel]
 
 _International Conference on Computer Vision (ICCV),_ 2011
 
-[[project page][276]]
+[[project page][adaptive-context]]
 
 </div>
 </div><hr>
@@ -1429,11 +1429,11 @@ _International Conference on Computer Vision (ICCV),_ 2011
 
 Devi Parikh and [C. Lawrence Zitnick][c-lawrence]
 
-[Finding the Weakest Link in Person Detectors][277]
+[Finding the Weakest Link in Person Detectors][weakest]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011
 
-[[project page][278]] [[data][279]] [[poster][280]] [[slides][281]]
+[[project page][person-det]] [[data][person#down]] [[poster][cvpr11]] [[slides][cvpr11-ppt]]
 
 </div>
 </div><hr>
@@ -1446,11 +1446,11 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011
 
 Devi Parikh and [Kristen Grauman][grauman]
 
-[Interactively Building a Discriminative Vocabulary of Nameable Attributes][282]
+[Interactively Building a Discriminative Vocabulary of Nameable Attributes][nameable]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011
 
-[[supplementary material][283]] [[project page][284]] [[poster][285]] [[slides][286]]
+[[supplementary material][nameable-supp]] [[project page][nameable-html]] [[poster][nameable-post]] [[slides][nameable-pptx]]
 
 </div>
 </div><hr>
@@ -1463,15 +1463,15 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011
 
 Devi Parikh and [Kristen Grauman][grauman]
 
-[Interactive Discovery of Task-Specific Nameable Attributes][287] (Abstract)
+[Interactive Discovery of Task-Specific Nameable Attributes][nameable-cvpr11] (Abstract)
 
-[First Workshop on Fine-Grained Visual Categorization (FGVC)][288], 
+[First Workshop on Fine-Grained Visual Categorization (FGVC)][fgvc], 
 
 held in conjunction with 
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011 (Best Poster Award)
 
-[[project page][284]] [[poster][285]]
+[[project page][nameable-html]] [[poster][nameable-post]]
 
 </div>
 </div><hr>
@@ -1482,9 +1482,9 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011 (Best
 </div>
 <div class="col-sm-7">
 
-[Andrew Gallagher][andy], [Dhruv Batra][261] and Devi Parikh
+[Andrew Gallagher][andy], [Dhruv Batra][edbatra] and Devi Parikh
 
-[Inference for Order Reduction in MRFs][289]
+[Inference for Order Reduction in MRFs][cvpr11-ori]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2011
 
@@ -1497,13 +1497,13 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2011
 </div>
 <div class="col-sm-7">
 
-[Dhruv Batra][261], [Adarsh Kowdle][262], Devi Parikh, Jiasen Luo, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], Devi Parikh, Jiasen Luo, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
-[Interactively Co-segmenting Topically Related Image with Intelligence Scribble Guidance][290]
+[Interactively Co-segmenting Topically Related Image with Intelligence Scribble Guidance][luo-chen11]
 
 _International Journal of Computer Vision (IJCV),_ January 2011
 
-[[project page and dataset][291]]
+[[project page and dataset][coseg]]
 
 </div>
 </div><hr>
@@ -1516,7 +1516,7 @@ _International Journal of Computer Vision (IJCV),_ January 2011
 
 [C. Lawrence Zitnick][c-lawrence] and Devi Parikh
 
-[Color Source Separation for Enhanced Pixel Manipulations][292]
+[Color Source Separation for Enhanced Pixel Manipulations][zitnick11]
 
 MSR-TR-2011-98, Microsoft Research, 2011
 
@@ -1539,11 +1539,11 @@ MSR-TR-2011-98, Microsoft Research, 2011
 
 Devi Parikh and [C. Lawrence Zitnick][c-lawrence]
 
-[The Role of Features, Algorithms and Data in Visual Recognition][293]
+[The Role of Features, Algorithms and Data in Visual Recognition][cvpr11]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2010_
 
-[[poster][294]] [[slides][295]]
+[[poster][cvpr11-pos]] [[slides][cvpr10-fad]]
 
 
 </div>
@@ -1555,13 +1555,13 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2010_
 </div>
 <div class="col-sm-7">
 
-[Dhruv Batra][261], [Andrew Gallagher][andy], Devi Parikh, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Dhruv Batra][edbatra], [Andrew Gallagher][andy], Devi Parikh, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
-[Beyond Trees: MRF Inference via Outer-Planar Decomposition][296]
+[Beyond Trees: MRF Inference via Outer-Planar Decomposition][cvpr10-opd]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2010
 
-[[poster][297]]
+[[poster][cvpr10-opd-poster]]
 
 </div>
 </div><hr>
@@ -1572,13 +1572,13 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2010
 </div>
 <div class="col-sm-7">
 
-[Dhruv Batra][261], [Adarsh Kowdle][262], Devi Parikh, Jiasen Luo, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], Devi Parikh, Jiasen Luo, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
-[iCoseg: Interactive Co-segmentation with Intelligent Scribble Guidance][298]
+[iCoseg: Interactive Co-segmentation with Intelligent Scribble Guidance][cvpr10-icoseg]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2010 
 
-[[poster][299]] [[project page and dataset]][291]
+[[poster][cvpr10-icoseg-pos]] [[project page and dataset]][coseg]
 
 </div>
 </div><hr>
@@ -1598,7 +1598,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2010 
 
 Devi Parikh
 
-[Modeling Context for Image Understanding: When, For What, and How?][300]
+[Modeling Context for Image Understanding: When, For What, and How?][devi-thesis]
 
 Ph.D. Thesis, Carnegie Mellon University, 2009
 
@@ -1611,7 +1611,7 @@ Ph.D. Thesis, Carnegie Mellon University, 2009
 </div>
 <div class="col-sm-7">
 
-[Dhruv Batra][261], Devi Parikh, [Adarsh Kowdle][adarsh], [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345) and Jiasen Luo
+[Dhruv Batra][edbatra], Devi Parikh, [Adarsh Kowdle][adarsh], [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345) and Jiasen Luo
 
 [Seed Image Selection in Interactive Cosegmentation][301]
 
@@ -1628,11 +1628,11 @@ _IEEE International Conference on Image Processing (ICIP)_, 2009
 
 Devi Parikh, [C. Lawrence Zitnick][c-lawrence] and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
-[Unsupervised Learning of Hierarchical Spatial Structures in Images][302]
+[Unsupervised Learning of Hierarchical Spatial Structures in Images][cvpr09-steiner2]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2009
 
-[[poster][303]] [[slides][304]]
+[[poster][cvpr09-steiner1]] [[slides][cvpr09-steiner]]
 
 </div>
 </div><hr>
@@ -1643,9 +1643,9 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2009
 </div>
 <div class="col-sm-7">
 
-[Dhruv Batra][261], [Adarsh Kowdle][adarsh], Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
-[Cutout-Search: Putting a name to the Picture][305]
+[Cutout-Search: Putting a name to the Picture][cvpr09-cutout]
 
 _Workshop on Internet Vision, IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2009
 
@@ -1658,13 +1658,13 @@ _Workshop on Internet Vision, IEEE Conference on Computer Vision and Pattern Rec
 </div>
 <div class="col-sm-7">
 
-[Dhruv Batra][261], [Adarsh Kowdle][262], K. Tang, Devi Parikh, Jiasen Luo, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], K. Tang, Devi Parikh, Jiasen Luo, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
 Interactive Cosegmentation by Touch.
 
 Demo at _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2009
 
-[[project page][306]]
+[[project page][cvpr09]]
 
 </div>
 </div><hr>
@@ -1698,13 +1698,13 @@ _ACM Symposium on Applied Computing (SAC),_ 2009
 
 Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345/)
 
-[Unsupervised Modeling of Objects and their Hierarchical Contextual Interactions][308]
+[Unsupervised Modeling of Objects and their Hierarchical Contextual Interactions][parikh-chen]
 
 _EURASIP Journal on Image and Video Processing_
 
 _Special Issue on Patches in Vision,_ 2008
 
-[[slides][309]]
+[[slides][parikh-ppt]]
 
 </div>
 </div><hr>
@@ -1717,7 +1717,7 @@ _Special Issue on Patches in Vision,_ 2008
 
 Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345/)
 
-[Data Fusion and Cost Minimization for Intrusion Detection][310]
+[Data Fusion and Cost Minimization for Intrusion Detection][intrution]
 
 _IEEE Transactions on Information Forensics and Security_
 
@@ -1732,9 +1732,9 @@ _Special Issue on Statistical Methods for Network Security and Forensics,_ Augus
 </div>
 <div class="col-sm-7">
 
-[Robi Polikar][311], A. Topalis, Devi Parikh, D. Green, J. Kounios and C. Clark
+[Robi Polikar][epolikar], A. Topalis, Devi Parikh, D. Green, J. Kounios and C. Clark
 
-[An Ensemble Based Data Fusion for Early Diagnosis of Alzheimer's Disease][312]
+[An Ensemble Based Data Fusion for Early Diagnosis of Alzheimer's Disease][alzheimer]
 
 _Information Fusion,_ _Special Issue on Applications of Ensemble Methods,_ January 2008
 
@@ -1749,11 +1749,11 @@ _Information Fusion,_ _Special Issue on Applications of Ensemble Methods,_ Janua
 
 Devi Parikh, [C. Lawrence Zitnick][c-lawrence] and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
-[Determining Patch Saliency Using Low-Level Context][313]
+[Determining Patch Saliency Using Low-Level Context][cvpr08-sal-con]
 
 _European Conference on Computer Vision (ECCV)_, 2008
 
-[[poster][314]] [[slides][315]]
+[[poster][cvpr08-sal-poster]] [[slides][cvpr08-saliency]]
 
 </div>
 </div><hr>
@@ -1766,7 +1766,7 @@ _European Conference on Computer Vision (ECCV)_, 2008
 
 Devi Parikh, [C. Lawrence Zitnick][c-lawrence] and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
 
-[From Appearance to Context-Based Recognition: Dense Labeling in Small Images][316]
+[From Appearance to Context-Based Recognition: Dense Labeling in Small Images][cvpr08-small]
 
 _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2008
 
@@ -1821,7 +1821,7 @@ _Workshop on Applications in Computer Vision (WACV)_, 2008
 </div>
 <div class="col-sm-7">
 
-Devi Parikh and [Robi Polikar][311]
+Devi Parikh and [Robi Polikar][epolikar]
 
 [An Ensemble Based Incremental Learning Approach to Data Fusion][data-fus]
 
@@ -1859,7 +1859,7 @@ Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?
 
 _IEEE International Conference in Computer Vision (ICCV)_, 2007
 
-[[poster][iccv7]] [[slides][309]]
+[[poster][iccv7]] [[slides][parikh-ppt]]
 
 </div>
 </div><hr>
@@ -1967,7 +1967,7 @@ _The Journal of Solid Waste Technology And Management_, 2005
 </div>
 <div class="col-sm-7">
 
-Devi Parikh, N. Stepenosky, A. Topalis, D. Green, J. Kounios, C. Clark and [Robi Polikar][311]
+Devi Parikh, N. Stepenosky, A. Topalis, D. Green, J. Kounios, C. Clark and [Robi Polikar][epolikar]
 
 [Ensemble Based Data Fusion for Early Diagnosis of Alzheimer's Disease][emb-05]
 
@@ -1982,7 +1982,7 @@ _IEEE Proceedings on The Engineering in Medicine and Biology_, 2005
 </div>
 <div class="col-sm-7">
 
-Devi Parikh and [Robi Polikar][311]
+Devi Parikh and [Robi Polikar][epolikar]
 
 [A Multiple Classifier Approach for Multisensor Data Fusion][fus-05]
 
@@ -2004,7 +2004,7 @@ _IEEE Proceedings on Information Fusion_, 2005
 </div>
 <div class="col-sm-7">
 
-Devi Parikh, M. Kim, J. Oagaro, [Shreekanth Mandayam][shreek] and [Robi Polikar][311]
+Devi Parikh, M. Kim, J. Oagaro, [Shreekanth Mandayam][shreek] and [Robi Polikar][epolikar]
 
 [Combining Classifiers for Multisensor Data Fusion][smc-04]
 
@@ -2019,7 +2019,7 @@ _IEEE Proceedings on Systems, Man and Cybernetics_, 2004
 </div>
 <div class="col-sm-7">
 
-Devi Parikh, M. Kim, J. Oagaro, [Shreekanth Mandayam][shreek] and [Robi Polikar][311]
+Devi Parikh, M. Kim, J. Oagaro, [Shreekanth Mandayam][shreek] and [Robi Polikar][epolikar]
 
 [Ensemble of Classifiers Approach for NDT Data Fusion][uffc-04]
 
@@ -2272,105 +2272,105 @@ Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it i
 [scene-zitnik]: http://larryzitnick.org/publication/ZitnickSent2SceneICCV13.pdf
 [cvpr-clipart]: {{site.baseurl}}/static/publications/ZitnickParikh_CVPR_2013_clipart.pdf
 [erooz]: http://www.cs.ucla.edu/%7Eroozbehm/
-[218]: http://ttic.uchicago.edu/%7Efidler/
-[219]: http://ttic.uchicago.edu/%7Eyaojian/
-[220]: http://ttic.uchicago.edu/%7Erurtasun/
-[221]: {{site.baseurl}}/static/publications/Mottaghi_CVPR_2013_debug_crf.pdf
-[222]: {{site.baseurl}}/static/publications/Mottaghi_CVPR_2013_debug_crf_poster.pptx
-[223]: http://www.umiacs.umd.edu/%7Earijit/
-[224]: {{site.baseurl}}/static/publications/BiswasParikh_CVPR_2013_active_attributes_feedback.pdf
-[225]: attribute_feedback
-[226]: {{site.baseurl}}/static/publications/BiswasParikh_CVPR_2013_active_attributes_feedback_poster.pdf
-[227]: ./demos.htm#classifier_feedback_demo
-[228]: http://www.umiacs.umd.edu/%7Emrastega/
-[229]: {{site.baseurl}}/static/publications/Rastegari_Diba_Parikh_Farhadi_CVPR_2013.pdf
-[230]: {{site.baseurl}}/static/publications/Rastegari_CVPR_2013_complex_query_poster.pdf
-[231]: ./demos.htm
-[232]: {{site.baseurl}}/static/publications/ParkashParikh_ECCV_2012_attributes_feedback.pdf
-[233]: {{site.baseurl}}/static/publications/attributes_for_classifier_feedback.pptx
-[234]: http://videolectures.net/eccv2012_parikh_attributes/
-[235]: {{site.baseurl}}/static/publications/PariAdrianaKovashkaParkashGrauman_AAAI_2012_relative_attributes.pdf
-[236]: http://chenlab.ece.cornell.edu/people/congcong/
-[237]: http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345
-[238]: {{site.baseurl}}/static/publications/LiParikhChen_CVPR_2012_groups_of_objects.pdf
-[239]: http://chenlab.ece.cornell.edu/projects/objectgroup
-[240]: {{site.baseurl}}/static/publications/LiParikhChen_CVPR_2012_groups_of_objects_poster.pdf
-[241]: PublicationAdrianaKovashkaParikhGrauman_CVPR_2012_whittle_search.pdf
-[242]: http://vision.cs.utexas.edu/whittlesearch/
-[243]: PublicationAdrianaKovashkaParikhGrauman_CVPR_2012_whittle_search_poster.pdf
-[244]: ./demos.htm#whittle_demo
-[245]: ./WhittleSearch.mp4
-[246]: https://www.cs.indiana.edu/%7Ekduan/
-[247]: https://www.cs.indiana.edu/%7Edjcran/
-[248]: {{site.baseurl}}/static/publications/DuanParikhCrandallGrauman_CVPR_2012_local_attributes.pdf
-[249]: http://vision.soic.indiana.edu/attributediscovery
-[250]: {{site.baseurl}}/static/publications/DuanParikhCrandallGrauman_CVPR_2012_local_attributes_poster.pdf
-[251]: {{site.baseurl}}/static/publications/ZitnickParikh_CVPR_2012_contour.pdf
-[252]: contour.html
-[253]: contour.html#data
-[254]: {{site.baseurl}}/static/publications/ZitnickParikh_CVPR_2012_contour_poster.pdf
-[255]: http://cvcl.mit.edu/aude.htm
-[256]: http://web.mit.edu/phillipi/UnderstandingMemorability/
-[257]: http://web.mit.edu/newsoffice/2011/profile-oliva-csail.html
-[258]: {{site.baseurl}}/static/publications/ParikhZitnickChen_PAMI_2011_app_context.pdf
-[259]: {{site.baseurl}}/static/publications/ParikhZitnick_CSS_NIPS2011_human_debugging.pdf
-[260]: http://www.cs.umass.edu/%7Ewallach/workshops/nips2011css/
-[261]: http://www.ece.cmu.edu/%7Edbatra
-[262]: http://amp.ece.cornell.edu/people/adarsh/home.html
-[263]: http://www.springer.com/computer/image+processing/book/978-1-4614-1914-3
-[264]: {{site.baseurl}}/static/publications/IsolaParikhTorralbaOliva_NIPS2011_memorability.pdf
-[265]: {{site.baseurl}}/static/publications/ParikhGrauman_ICCV2011_relative.pdf
-[266]: ./relative.html
-[267]: ./relative.html#data
-[268]: relative.html#code
-[269]: ./relative_attributes/relative_attributes.ppt
-[270]: http://iccv2011.org/oral_videos/day_2/2-3-1.m4v
-[271]: {{site.baseurl}}/static/publications/ParikhGrauman_ICCV2011_relative_poster.pdf
-[272]: {{site.baseurl}}/static/publications/Parikh_ICCV2011_puzzled.pdf
-[273]: {{site.baseurl}}/static/publications/Parikh_ICCV2011_jumbled_poster.pdf
-[274]: {{site.baseurl}}/static/publications/slides/Parikh_ICCV2011_jumbled_images.pptx
-[275]: {{site.baseurl}}/static/publications/LiParikhChen_ICCV2011_unlabeled.pdf
-[276]: http://chenlab.ece.cornell.edu/projects/AdaptiveContext/
-[277]: {{site.baseurl}}/static/publications/ParikhZitnick_CVPR2011_weakest_link.pdf
-[278]: ./person_detection.html
-[279]: ./person_detection.html#download
-[280]: {{site.baseurl}}/static/publications/ParikhZitnick_CVPR2011_weakest_link_poster.pdf
-[281]: {{site.baseurl}}/static/publications/slides/ParikhZitnick_CVPR2011_weakest_link.pptx
-[282]: {{site.baseurl}}/static/publications/ParikhGrauman_CVPR2011_nameable.pdf
-[283]: {{site.baseurl}}/static/publications/nameable_supp.pdf
-[284]: ./nameable.html
-[285]: {{site.baseurl}}/static/publications/ParikhGrauman_CVPR2011_nameable_poster.pdf
-[286]: {{site.baseurl}}/static/publications/slides/ParikhGrauman_CVPR2011_nameable.pptx
-[287]: {{site.baseurl}}/static/publications/ParikhGrauman_FGVC_CVPR2011_nameable.pdf
-[288]: http://www.fgvc.org/
-[289]: {{site.baseurl}}/static/publications/GallagherBatraParikh_CVPR2011_ORI.pdf
-[290]: {{site.baseurl}}/static/publications/BatraKowdleParikhLuoChen_IJCV2011_iCoseg.pdf
-[291]: http://chenlab.ece.cornell.edu/projects/touch-coseg/
-[292]: http://research.microsoft.com/pubs/153463/Zitnick-MSR-TR-2011-98.pdf
-[293]: {{site.baseurl}}/static/publications/ParikhZitnick_CVPR2010_FAD.pdf
-[294]: {{site.baseurl}}/static/publications/ParikhZitnick_CVPR2010_FAD_poster.pdf
-[295]: {{site.baseurl}}/static/publications/slides/ParikhZitnick_CVPR2010_FAD.pptx
-[296]: {{site.baseurl}}/static/publications/BatraGallagherParikhChen_CVPR2010_OPD.pdf
-[297]: {{site.baseurl}}/static/publications/BatraGallagherParikhChen_CVPR2010_OPD_poster.pdf
-[298]: {{site.baseurl}}/static/publications/BatraKowdleParikhLuoChen_CVPR2010_iCoseg.pdf
-[299]: {{site.baseurl}}/static/publications/BatraKowdleParikhLuoChen_CVPR2010_icoseg_poster.pdf
-[300]: {{site.baseurl}}/static/publications/DeviParikh_Ph.D.thesis.pdf
+[fidler]: http://ttic.uchicago.edu/%7Efidler/
+[eyao]: http://ttic.uchicago.edu/%7Eyaojian/
+[erurta]: http://ttic.uchicago.edu/%7Erurtasun/
+[debug-crf]: {{site.baseurl}}/static/publications/Mottaghi_CVPR_2013_debug_crf.pdf
+[debug-crf-poster]: {{site.baseurl}}/static/publications/Mottaghi_CVPR_2013_debug_crf_poster.pptx
+[earijit]: http://www.umiacs.umd.edu/%7Earijit/
+[att-feedback]: {{site.baseurl}}/static/publications/BiswasParikh_CVPR_2013_active_attributes_feedback.pdf
+[att-feed]: attribute_feedback
+[att-feed-poster]: {{site.baseurl}}/static/publications/BiswasParikh_CVPR_2013_active_attributes_feedback_poster.pdf
+[class-feed]: {{site.baseurl}}/demos.htm#classifier_feedback_demo
+[emra]: http://www.umiacs.umd.edu/%7Emrastega/
+[cvpr13]: {{site.baseurl}}/static/publications/Rastegari_Diba_Parikh_Farhadi_CVPR_2013.pdf
+[cvpr13-pos]: {{site.baseurl}}/static/publications/Rastegari_CVPR_2013_complex_query_poster.pdf
+[demos]: {{site.baseurl}}/demos.htm
+[eccv-att]: {{site.baseurl}}/static/publications/ParkashParikh_ECCV_2012_attributes_feedback.pdf
+[clas-fed-ppt]: {{site.baseurl}}/static/publications/attributes_for_classifier_feedback.pptx
+[eccv12-att]: http://videolectures.net/eccv2012_parikh_attributes/
+[relative-att]: {{site.baseurl}}/static/publications/PariAdrianaKovashkaParkashGrauman_AAAI_2012_relative_attributes.pdf
+[congcong]: http://chenlab.ece.cornell.edu/people/congcong/
+[cornell-edu]: http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345
+[group-obj]: {{site.baseurl}}/static/publications/LiParikhChen_CVPR_2012_groups_of_objects.pdf
+[obj-gr]: http://chenlab.ece.cornell.edu/projects/objectgroup
+[obj-gr-pos]: {{site.baseurl}}/static/publications/LiParikhChen_CVPR_2012_groups_of_objects_poster.pdf
+[whit-search]: PublicationAdrianaKovashkaParikhGrauman_CVPR_2012_whittle_search.pdf
+[whit-search.edu]: http://vision.cs.utexas.edu/whittlesearch/
+[whit-search-pos]: PublicationAdrianaKovashkaParikhGrauman_CVPR_2012_whittle_search_poster.pdf
+[whit-demo]: {{site.baseurl}}/demos.htm#whittle_demo
+[whit-mp4]: {{site.baseurl}}/WhittleSearch.mp4
+[ekduan]: https://www.cs.indiana.edu/%7Ekduan/
+[Edjc]: https://www.cs.indiana.edu/%7Edjcran/
+[local-attrib]: {{site.baseurl}}/static/publications/DuanParikhCrandallGrauman_CVPR_2012_local_attributes.pdf
+[attrib-discov]: http://vision.soic.indiana.edu/attributediscovery
+[attrib-pos]: {{site.baseurl}}/static/publications/DuanParikhCrandallGrauman_CVPR_2012_local_attributes_poster.pdf
+[contour]: {{site.baseurl}}/static/publications/ZitnickParikh_CVPR_2012_contour.pdf
+[cont-html]: {{site.baseurl}}/contour.html
+[cont-html#data]: {{site.baseurl}}/contour.html#data
+[cont-12-pos]: {{site.baseurl}}/static/publications/ZitnickParikh_CVPR_2012_contour_poster.pdf
+[aude]: http://cvcl.mit.edu/aude.htm
+[memorability]: http://web.mit.edu/phillipi/UnderstandingMemorability/
+[oliva]: http://web.mit.edu/newsoffice/2011/profile-oliva-csail.html
+[pami11]: {{site.baseurl}}/static/publications/ParikhZitnickChen_PAMI_2011_app_context.pdf
+[human-debug11]: {{site.baseurl}}/static/publications/ParikhZitnick_CSS_NIPS2011_human_debugging.pdf
+[nips-2011]: http://www.cs.umass.edu/%7Ewallach/workshops/nips2011css/
+[edbatra]: http://www.ece.cmu.edu/%7Edbatra
+[adarsh]: http://amp.ece.cornell.edu/people/adarsh/home.html
+[img-proces-b]: http://www.springer.com/computer/image+processing/book/978-1-4614-1914-3
+[nips11-mem]: {{site.baseurl}}/static/publications/IsolaParikhTorralbaOliva_NIPS2011_memorability.pdf
+[iccv11-rel]: {{site.baseurl}}/static/publications/ParikhGrauman_ICCV2011_relative.pdf
+[rel]:{{site.baseurl}}relative.html
+[rel#data]: {{site.baseurl}}/relative.html#data
+[rel#code]: relative.html#code
+[rel-att-ppt]: {{site.baseurl}}/relative_attributes/relative_attributes.ppt
+[231-m4v]: http://iccv2011.org/oral_videos/day_2/2-3-1.m4v
+[par-grauman]: {{site.baseurl}}/static/publications/ParikhGrauman_ICCV2011_relative_poster.pdf
+[puzzled]: {{site.baseurl}}/static/publications/Parikh_ICCV2011_puzzled.pdf
+[jumbled-pos]: {{site.baseurl}}/static/publications/Parikh_ICCV2011_jumbled_poster.pdf
+[jumbled-img]: {{site.baseurl}}/static/publications/slides/Parikh_ICCV2011_jumbled_images.pptx
+[jumbled-unlabel]: {{site.baseurl}}/static/publications/LiParikhChen_ICCV2011_unlabeled.pdf
+[adaptive-context]: http://chenlab.ece.cornell.edu/projects/AdaptiveContext/
+[weakest]: {{site.baseurl}}/static/publications/ParikhZitnick_CVPR2011_weakest_link.pdf
+[person-det]: {{site.baseurl}}/person_detection.html
+[person#down]: {{site.baseurl}}/person_detection.html#download
+[cvpr11]: {{site.baseurl}}/static/publications/ParikhZitnick_CVPR2011_weakest_link_poster.pdf
+[cvpr11-ppt]: {{site.baseurl}}/static/publications/slides/ParikhZitnick_CVPR2011_weakest_link.pptx
+[nameable]: {{site.baseurl}}/static/publications/ParikhGrauman_CVPR2011_nameable.pdf
+[nameable-supp]: {{site.baseurl}}/static/publications/nameable_supp.pdf
+[nameable-html]: {{site.baseurl}}/nameable.html
+[nameable-post]: {{site.baseurl}}/static/publications/ParikhGrauman_CVPR2011_nameable_poster.pdf
+[nameable-pptx]: {{site.baseurl}}/static/publications/slides/ParikhGrauman_CVPR2011_nameable.pptx
+[nameable-cvpr11]: {{site.baseurl}}/static/publications/ParikhGrauman_FGVC_CVPR2011_nameable.pdf
+[fgvc]: http://www.fgvc.org/
+[cvpr11-ori]: {{site.baseurl}}/static/publications/GallagherBatraParikh_CVPR2011_ORI.pdf
+[luo-chen11]: {{site.baseurl}}/static/publications/BatraKowdleParikhLuoChen_IJCV2011_iCoseg.pdf
+[coseg]: http://chenlab.ece.cornell.edu/projects/touch-coseg/
+[zitnick11]: http://research.microsoft.com/pubs/153463/Zitnick-MSR-TR-2011-98.pdf
+[cvpr11]: {{site.baseurl}}/static/publications/ParikhZitnick_CVPR2010_FAD.pdf
+[cvpr11-pos]: {{site.baseurl}}/static/publications/ParikhZitnick_CVPR2010_FAD_poster.pdf
+[cvpr10-fad]: {{site.baseurl}}/static/publications/slides/ParikhZitnick_CVPR2010_FAD.pptx
+[cvpr10-opd]: {{site.baseurl}}/static/publications/BatraGallagherParikhChen_CVPR2010_OPD.pdf
+[cvpr10-opd-poster]: {{site.baseurl}}/static/publications/BatraGallagherParikhChen_CVPR2010_OPD_poster.pdf
+[cvpr10-icoseg]: {{site.baseurl}}/static/publications/BatraKowdleParikhLuoChen_CVPR2010_iCoseg.pdf
+[cvpr10-icoseg-pos]: {{site.baseurl}}/static/publications/BatraKowdleParikhLuoChen_CVPR2010_icoseg_poster.pdf
+[devi-thesis]: {{site.baseurl}}/static/publications/DeviParikh_Ph.D.thesis.pdf
 [301]: {{site.baseurl}}/static/publications/BatraParikhKowdleChenLuo_ICIP_2009.pdf
-[302]: {{site.baseurl}}/static/publications/ParikhZitnickChen_CVPR_2009_steiner.pdf
-[303]: {{site.baseurl}}/static/publications/ParikhZitnickChen_CVPR_2009_steiner.pdf
-[304]: {{site.baseurl}}/static/publications/slides/ParikhZitnickChen_CVPR_2009_steiner.pptx
-[305]: {{site.baseurl}}/static/publications/IV_CVPR_2009_cutout_search.pdf
-[306]: http://www.ece.cmu.edu/%7Edbatra/research/cvpr09_demo/cvpr09_demo.html
-[307]: http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345/
-[308]: {{site.baseurl}}/static/publications/ParikhChen_hSO_journal_2008.pdf
-[309]: {{site.baseurl}}/static/publications/slides/ParikhChen_hSO.pptx
-[310]: {{site.baseurl}}/static/publications/ParikhChen_intrusion_detection_journal_2008.pdf
-[311]: http://users.rowan.edu/%7Epolikar/
-[312]: {{site.baseurl}}/static/publications/Polikar_information_fusion_journal_2008_alzheimers.pdf
-[313]: {{site.baseurl}}/static/publications/ParikhZitnickChen_ECCV_2008_context_saliency.pdf
-[314]: {{site.baseurl}}/static/publications/ParikhZitnickChen_ECCV_2008_context_saliency_poster.pdf
-[315]: {{site.baseurl}}/static/publications/slides/ParikhZitnickChen_ECCV_2008_context_saliency.pptx
-[316]: {{site.baseurl}}/static/publications/ParikhZitnickChen_CVPR_2008_context_smallimages.pdf
+[cvpr09-steiner2]: {{site.baseurl}}/static/publications/ParikhZitnickChen_CVPR_2009_steiner.pdf
+[cvpr09-steiner1]: {{site.baseurl}}/static/publications/ParikhZitnickChen_CVPR_2009_steiner.pdf
+[cvpr09-steiner]: {{site.baseurl}}/static/publications/slides/ParikhZitnickChen_CVPR_2009_steiner.pptx
+[cvpr09-cutout]: {{site.baseurl}}/static/publications/IV_CVPR_2009_cutout_search.pdf
+[cvpr09]: http://www.ece.cmu.edu/%7Edbatra/research/cvpr09_demo/cvpr09_demo.html
+[cornell]: http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345/
+[parikh-chen]: {{site.baseurl}}/static/publications/ParikhChen_hSO_journal_2008.pdf
+[parikh-ppt]: {{site.baseurl}}/static/publications/slides/ParikhChen_hSO.pptx
+[intrution]: {{site.baseurl}}/static/publications/ParikhChen_intrusion_detection_journal_2008.pdf
+[epolikar]: http://users.rowan.edu/%7Epolikar/
+[alzheimer]: {{site.baseurl}}/static/publications/Polikar_information_fusion_journal_2008_alzheimers.pdf
+[cvpr08-sal-con]: {{site.baseurl}}/static/publications/ParikhZitnickChen_ECCV_2008_context_saliency.pdf
+[cvpr08-sal-poster]: {{site.baseurl}}/static/publications/ParikhZitnickChen_ECCV_2008_context_saliency_poster.pdf
+[cvpr08-saliency]: {{site.baseurl}}/static/publications/slides/ParikhZitnickChen_ECCV_2008_context_saliency.pptx
+[cvpr08-small]: {{site.baseurl}}/static/publications/ParikhZitnickChen_CVPR_2008_context_smallimages.pdf
 [cvpr08]: {{site.baseurl}}/static/publications/ParikhZitnickChen_CVPR_2008_context_smallimages_poster.pdf
 [cvpr]: {{site.baseurl}}/static/publications/slides/ParikhZitnickChen_CVPR2008_PAMI2011_context_smallimages.pptx
 [icassp8]: {{site.baseurl}}/static/publications/ParikhChen_ICASSP_2008_dtransform.pdf
@@ -2403,3 +2403,4 @@ Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it i
 [uffc-04]: {{site.baseurl}}/static/publications/Parikh_UFFC_2004_NDT.pdf
 [ihwc-12]: {{site.baseurl}}/static/publications/Parikh_IHWC_2002.pdf
 [rubik]: https://www.grubiks.com/solvers/rubiks-cube-3x3x3/
+[arx-1606]: http://arxiv.org/abs/1606.03556
