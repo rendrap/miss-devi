@@ -133,7 +133,7 @@ Human Language Technologies (NAACL HLT), 2018.
 
 [Embodied Question Answering][e-qa]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2018\. (Oral)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018\. (Oral)
 
 </div>
 </div><hr>
@@ -150,7 +150,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2018\. (Ora
 
 [Neural Baby Talk][baby-talk]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2018\. (Spotlight)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018\. (Spotlight)
 
 </div>
 </div><hr>
@@ -166,7 +166,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2018\. (Spo
 
 [Don't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering][dont-assume]
 
-I_EEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2018.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
 
 </div>
 </div><hr>
@@ -221,7 +221,7 @@ International Journal of Computer Vision (IJCV), 2017
 </div>
 <div class="col-sm-7">
 
-[Jiasen Lu][jlu], [Anitha Kannan](https://www.google.com/search?q=Anitha+Kannan&ie=utf-8&oe=utf-8), [Jianwei Yang][ji-yang], Devi Parikh, and [Dhruv Batra][d-batra]
+[Jiasen Lu][jlu], [Anitha Kannan][a-kannan], [Jianwei Yang][ji-yang], Devi Parikh, and [Dhruv Batra][d-batra]
 
 [Best of Both Worlds: Transferring Knowledge from Discriminative Learning to a Generative Visual Dialog Model][both-world]
 
@@ -337,7 +337,9 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017\. (Spotl
 \* equal contribution
 
 [Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning][img-capt]
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2017\. (Spotlight)
+
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017\. (Spotlight)
+
 [code coming soon!]
 
 </div>
@@ -353,7 +355,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2017\. (Spo
 
 [Context-aware Captions from Context-agnostic Supervision][context-aware]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2017\. (Spotlight)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017\. (Spotlight)
 
 </div>
 </div><hr>
@@ -370,7 +372,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2017\. (Spo
 
 [Counting Everyday Objects in Everyday Scenes][counting]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2017\. (Spotlight)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017\. (Spotlight)
 
 </div>
 </div><hr>
@@ -387,9 +389,9 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2017\. (Spo
 
 [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering][vqa-matter] (a.k.a. The VQA v2.0 Dataset)
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2017.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
 
-[[project page][proj-page]] [[video](https://www.youtube.com/watch?v=nMr_sSAMpkE)]
+[[project page][proj-page]] [[video][vid-youtube]]
 
 </div>
 </div><hr>
@@ -400,9 +402,10 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2017.
 </div>
 <div class="col-sm-7">
 
-[Jianwei Yang][ji-yang], [Anitha Kannan](https://www.google.com/search?q=Anitha+Kannan&ie=utf-8&oe=utf-8), [Dhruv Batra][d-batra], and Devi Parikh
+[Jianwei Yang][ji-yang], [Anitha Kannan][a-kannan], [Dhruv Batra][d-batra], and Devi Parikh
 
 [LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation][arx-1560]
+
 International Conference on Learning Representations (ICLR), 2017
 
 </div>
@@ -437,6 +440,7 @@ Series on Advances in Computer Vision and Pattern Recognition, Springer, 2017
 [Jiasen Lu][jlu], [Jianwei Yang][ji-yang], [Dhruv Batra][d-batra], and Devi Parikh
 
 [Hierarchical Question-Image Co-Attention for Visual Question Answering][107]
+
 Neural Information Processing Systems (NIPS), 2016
 
 </div>
@@ -495,14 +499,16 @@ Conference on Empirical Methods in Natural Language Processing (EMNLP), 2016
 
 [Abhishek Das][a-das], [Harsh Agrawal][h-agra], [C. Lawrence Zitnick][c-lawrence], Devi Parikh, and [Dhruv Batra][d-batra]
 
-[Human Attention in Visual Question Answering:
-](http://arxiv.org/abs/1606.03556)
+[Human Attention in Visual Question Answering:](http://arxiv.org/abs/1606.03556)
 
 [Do Humans and Deep Networks Look at the Same Regions?][do-humans]
 
 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2016
+
 Also presented at:
+
 Workshop on Visualization for Deep Learning at
+
 International Conference on Machine Learning (ICML), 2016
 
 Best student paper
@@ -521,6 +527,7 @@ Best student paper
 [Towards Transparent AI Systems: Interpreting Visual Question Answering Models][transparent-ai]
 
 Workshop on Visualization for Deep Learning at
+
 International Conference on Machine Learning (ICML), 2016
 
 Best student paper
@@ -583,7 +590,7 @@ AI Magazine (2016)
 
 [We Are Humor Beings: Understanding and Predicting Visual Humor][arx-1512]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2016\. (Spotlight)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016\. (Spotlight)
 
 </div>
 </div><hr>
@@ -600,7 +607,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2016\. (Spo
 
 [Yin and Yang: Balancing and Answering Binary Visual Questions][arx-5099]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2016.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 
 </div>
 </div><hr>
@@ -617,7 +624,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2016.
 
 [Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes][arx-7067]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2016.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 
 [[project page (including code)][vis-world]]
 
@@ -650,6 +657,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 [Ross Girshick][erbg], [Xiaodong He][xiao], [Pushmeet Kohli][pkohli], [Dhruv Batra][d-batra], [C. Lawrence Zitnick][c-lawrence], Devi Parikh, [Lucy Vanderwende][lucy], [Michel Galley][mgalley], and [Margaret Mitchell][m-mitchell]
 
 [Visual Storytelling][data-rel]
+
 Conference of the North American Chapter of the Association for Computational Linguistics:
 
 Human Language Technologies (NAACL HLT), 2016.
@@ -749,7 +757,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2016.
 
 [VQA: Visual Question Answering][vqa-15]
 
-_International Conference on Computer Vision (ICCV),_ 2015.
+International Conference on Computer Vision (ICCV), 2015.
 
 [[project page][vqa-org]]
 
@@ -768,7 +776,7 @@ _International Conference on Computer Vision (ICCV),_ 2015.
 
 [Learning Common Sense Through Visual Abstraction][common]
 
-_International Conference on Computer Vision (ICCV),_ 2015.
+International Conference on Computer Vision (ICCV), 2015.
 
 [[supplementary material][common-sup]] [[project page][vt-cs] (under construction)]
 
@@ -785,7 +793,7 @@ _International Conference on Computer Vision (ICCV),_ 2015.
 
 [Don't Just Listen, Use Your Imagination: Leveraging Visual Common Sense for Non-Visual Tasks][arx-6108]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2015\. (Oral)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015\. (Oral)
 
 [[extended abstract][img-ext]] [[talk (video)][dont-listen]] [[project page with code, data, slides, etc.][imagine]]
 
@@ -802,7 +810,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2015\. (Ora
 
 [Image Specificity](http://arxiv.org/abs/1502.04569)
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2015\. (Oral)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015\. (Oral)
 
 [[extended abstract][ext-abs]] [[talk (video)][img-spc]] [[project page with code, data, slides, etc.][jasman]]
 
@@ -818,7 +826,9 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2015\. (Ora
 [Arturo Deza][arturo] and Devi Parikh
 
 [Understanding Image Virality][arx-2318]
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2015.
+
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.
+
 [[extended abstract][15-abs]] [[project page with code, data, etc.][viral]]
 
 </div>
@@ -834,7 +844,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2015.
 
 [CIDEr: Consensus-based Image Description Evaluation][arx-5726]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2015.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.
 
 [[extended abstract][cider]] [[project page with code, data, etc.][vram-cider]]
 
@@ -851,7 +861,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2015.
 
 WhittleSearch: Interactive Image Search with Relative Attribute Feedback
 
-_International Journal of Computer Vision (IJCV),_ 2015
+International Journal of Computer Vision (IJCV), 2015
 
 </div>
 </div><hr>
@@ -870,7 +880,7 @@ _International Journal of Computer Vision (IJCV),_ 2015
 
 [Zero-Shot Learning via Visual Abstraction][via-visual].
 
-European _Conference on Computer Vision (ECCV),_ 2014.
+European Conference on Computer Vision (ECCV), 2014.
 
 [[project page][viazsl]]
 
@@ -887,7 +897,7 @@ European _Conference on Computer Vision (ECCV),_ 2014.
 
 [Interactively Guiding Semi-Supervised Clustering via Attribute-based Explanations][feedback].
 
-European _Conference on Computer Vision (ECCV),_ 2014.
+European Conference on Computer Vision (ECCV), 2014.
 
 [[project page][cluster]]
 
@@ -904,7 +914,7 @@ European _Conference on Computer Vision (ECCV),_ 2014.
 
 [Towards Transparent Systems: Semantic Characterization of Failure Modes][eccv]. 
 
-European _Conference on Computer Vision (ECCV),_ 2014.
+European Conference on Computer Vision (ECCV), 2014.
 
 [[project page][eccv-14]]
 
@@ -936,7 +946,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2014.
 
 [Predicting Failures of Vision Systems][predict]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2014.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
 
 [[project page][alert]]
 
@@ -953,7 +963,7 @@ G. Christie, [Amar Parkash][apark], U. Krothapalli and Devi Parikh
 
 [Predicting User Annoyance Using Visual Attributes][annoy-predict]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2014.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
 
 [[project page][a-pred]]
 
@@ -972,7 +982,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2014.
 
 Big Vision workshop
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2014.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
 
 [[project page][re-rank]]
 
@@ -997,6 +1007,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2014.
 [Which Edges Matter?][edges]
 
 Workshop on 3D Representation and Recognition (3dRR)
+
 International Conference on Computer Vision (ICCV), 2013.
 
 </div>
@@ -1027,7 +1038,7 @@ Allerton Conference on Communication, Control and Computing, 2013\. (Oral)
 
 [Attribute Dominance: What Pops Out? ][att-dom]
 
-_International Conference on Computer Vision (ICCV),_ 2013.
+International Conference on Computer Vision (ICCV), 2013.
 
 [[project page and data][att-dom-g]] [[poster][att-dom-poster]]
 
@@ -1040,11 +1051,11 @@ _International Conference on Computer Vision (ICCV),_ 2013.
 </div>
 <div class="col-sm-7">
 
-[Amir Sadovnik][amir], [Andrew C. Gallagher][andy], Devi Parikh and [Tsuhan Chen](http://www.engineering.cornell.edu/research/faculty/profile.cfm?netid=tc345)
+[Amir Sadovnik][amir], [Andrew C. Gallagher][andy], Devi Parikh and [Tsuhan Chen][t-chen]
 
 [Spoken Attributes: Mixing Binary and Relative Attributes to Say the Right Thing][sadovnik]
 
-_International Conference on Computer Vision (ICCV)_, 2013.
+International Conference on Computer Vision (ICCV), 2013.
 
 [[project page and data][spoken]] [[poster][right-poster]]
 
@@ -1061,7 +1072,7 @@ Devi Parikh and [Kristen Grauman][grauman]
 
 [Implied Feedback: Learning Nuances of User Behavior in Image Search][nuance]
 
-_International Conference on Computer Vision (ICCV)_, 2013.
+International Conference on Computer Vision (ICCV), 2013.
 
 [[supp material][nuance-sup]] [[poster][nuance-sup-pos]]
 
@@ -1078,7 +1089,7 @@ _International Conference on Computer Vision (ICCV)_, 2013.
 
 [Learning the Visual Interpretation of Sentences][scene-zitnik]
 
-_International Conference on Computer Vision (ICCV),_ 2013.
+International Conference on Computer Vision (ICCV), 2013.
 
 [[project page, data, slides, video, etc.][clipart]]
 
@@ -1095,7 +1106,7 @@ _International Conference on Computer Vision (ICCV),_ 2013.
 
 [Bringing Semantics Into Focus Using Visual Abstraction][cvpr-clipart]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013 (Oral)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013 (Oral)
 
 [[project page, data, slides, video, etc.][clipart]]
 
@@ -1112,7 +1123,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013 (Oral
 
 [Analyzing Semantic Segmentation Using Hybrid Human-Machine CRFs][debug-crf]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013
 
 [[poster][debug-crf-poster]]
 
@@ -1129,7 +1140,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
 
 [Simultaneous Active Learning of Classifiers & Attributes via Relative Feedback][att-feedback]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013
 
 [[project page and data][att-feed]] [[poster][att-feed-poster]] [[demo][class-feed]]
 
@@ -1146,7 +1157,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
 
 [Multi-Attribute Queries: To Merge or Not to Merge?][cvpr13]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013
 
 [[poster][cvpr13-pos]]
 
@@ -1163,7 +1174,7 @@ N. Agrawal, [Arijit Biswas][earijit], [Adriana Kovashka][kovas], [Kristen Graum
 
 Relative Attributes for Enhanced Human-Machine Communication
 
-[Demo][demos] at _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2013
+[Demo][demos] at IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013
 
 </div>
 </div><hr>
@@ -1202,7 +1213,7 @@ Devi Parikh, [Adriana Kovashka][kovas], [Amar Parkash][apark] and [Kristen Graum
 
 [Relative Attributes for Enhanced Human-Machine Communication][relative-att] (Invited paper)
 
-_AAAI Conference on Artificial Intelligence (AAAI)_ 2012 (Oral)
+AAAI Conference on Artificial Intelligence (AAAI) 2012 (Oral)
 
 [[demos][demos]]
 
@@ -1215,11 +1226,11 @@ _AAAI Conference on Artificial Intelligence (AAAI)_ 2012 (Oral)
 </div>
 <div class="col-sm-7">
 
-[Congcong Li][congcong], Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Congcong Li][congcong], Devi Parikh and [Tsuhan Chen][cornell-chen]
 
 [Automatic Discovery of Groups of Objects for Scene Understanding][group-obj]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2012
 
 [[project page][obj-gr]] [[poster][obj-gr-pos]]
 
@@ -1236,7 +1247,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
 [WhittleSearch: Image Search with Relative Attribute Feedback][whit-search]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2012
 
 [[project page and data][whit-search.edu]] [[poster][whit-search-pos]] [[demo][whit-demo]] [[video][whit-mp4]]
 
@@ -1253,7 +1264,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
 [Discovering Localized Attributes for Fine-grained Recognition][local-attrib]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2012
 
 [[project page][attrib-discov]] [[poster][attrib-pos]]
 
@@ -1270,7 +1281,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
 
 [The Role of Image Understanding in Contour Detection][contour]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2012
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2012
 
 [[project page][cont-html]] [[data][cont-html#data]] [[poster][cont-12-pos]]
 
@@ -1300,11 +1311,11 @@ Visual Sciences Society (VSS), 2012
 </div>
 <div class="col-sm-7">
 
-Devi Parikh, [C. Lawrence Zitnick][c-lawrence] and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+Devi Parikh, [C. Lawrence Zitnick][c-lawrence] and [Tsuhan Chen][cornell-chen]
 
 [E][pami11][xploring Tiny Images: The Roles of Appearance and Contextual Information for Machine and Human Object Recognition][pami11]
 
-_Pattern Analysis and Machine Intelligence (PAMI), 2012_
+Pattern Analysis and Machine Intelligence (PAMI), 2012
 
 
 </div>
@@ -1329,7 +1340,7 @@ Devi Parikh and [C. Lawrence Zitnick][c-lawrence]
 
 [_Second Workshop on Computational Social Science and the Wisdom of Crowds_][nips-2011]
 
-_Neural Information Processing Systems (NIPS),_ 2011
+Neural Information Processing Systems (NIPS), 2011
 
 </div>
 </div><hr>
@@ -1340,7 +1351,7 @@ _Neural Information Processing Systems (NIPS),_ 2011
 </div>
 <div class="col-sm-7">
 
-[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], Devi Parikh, Jiasen Luo, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], Devi Parikh, Jiasen Luo, [Tsuhan Chen][cornell-chen]
 
 Interactive Co-segmentation of Objects in Image Collections (Book)
 
@@ -1378,7 +1389,7 @@ Devi Parikh and [Kristen Grauman][grauman]
 
 [Relative Attributes][iccv11-rel]
 
-_International Conference on Computer Vision (ICCV),_ 2011 (Oral)
+International Conference on Computer Vision (ICCV), 2011 (Oral)
 
 Marr Prize (Best Paper Award) Winner
 
@@ -1397,7 +1408,7 @@ Devi Parikh
 
 [Recognizing Jumbled Images: The Role of Local and Global Information in Image Classification][puzzled]
 
-_International Conference on Computer Vision (ICCV),_ 2011
+International Conference on Computer Vision (ICCV), 2011
 
 [[poster][jumbled-pos]] [[slides][jumbled-img]]
 
@@ -1410,11 +1421,11 @@ _International Conference on Computer Vision (ICCV),_ 2011
 </div>
 <div class="col-sm-7">
 
-[Congcong Li][congcong], Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Congcong Li][congcong], Devi Parikh and [Tsuhan Chen][cornell-chen]
 
 [Extracting Adaptive Contextual Cues from Unlabeled Regions][jumbled-unlabel]
 
-_International Conference on Computer Vision (ICCV),_ 2011
+International Conference on Computer Vision (ICCV), 2011
 
 [[project page][adaptive-context]]
 
@@ -1431,7 +1442,7 @@ Devi Parikh and [C. Lawrence Zitnick][c-lawrence]
 
 [Finding the Weakest Link in Person Detectors][weakest]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011
 
 [[project page][person-det]] [[data][person#down]] [[poster][cvpr11]] [[slides][cvpr11-ppt]]
 
@@ -1448,7 +1459,7 @@ Devi Parikh and [Kristen Grauman][grauman]
 
 [Interactively Building a Discriminative Vocabulary of Nameable Attributes][nameable]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011
 
 [[supplementary material][nameable-supp]] [[project page][nameable-html]] [[poster][nameable-post]] [[slides][nameable-pptx]]
 
@@ -1469,7 +1480,7 @@ Devi Parikh and [Kristen Grauman][grauman]
 
 held in conjunction with 
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011 (Best Poster Award)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011 (Best Poster Award)
 
 [[project page][nameable-html]] [[poster][nameable-post]]
 
@@ -1486,7 +1497,7 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2011 (Best
 
 [Inference for Order Reduction in MRFs][cvpr11-ori]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2011
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011
 
 </div>
 </div><hr>
@@ -1497,11 +1508,11 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2011
 </div>
 <div class="col-sm-7">
 
-[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], Devi Parikh, Jiasen Luo, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], Devi Parikh, Jiasen Luo, [Tsuhan Chen][cornell-chen]
 
 [Interactively Co-segmenting Topically Related Image with Intelligence Scribble Guidance][luo-chen11]
 
-_International Journal of Computer Vision (IJCV),_ January 2011
+International Journal of Computer Vision (IJCV), January 2011
 
 [[project page and dataset][coseg]]
 
@@ -1541,7 +1552,7 @@ Devi Parikh and [C. Lawrence Zitnick][c-lawrence]
 
 [The Role of Features, Algorithms and Data in Visual Recognition][cvpr11]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2010_
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2010
 
 [[poster][cvpr11-pos]] [[slides][cvpr10-fad]]
 
@@ -1555,11 +1566,11 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2010_
 </div>
 <div class="col-sm-7">
 
-[Dhruv Batra][edbatra], [Andrew Gallagher][andy], Devi Parikh, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Dhruv Batra][edbatra], [Andrew Gallagher][andy], Devi Parikh, [Tsuhan Chen][cornell-chen]
 
 [Beyond Trees: MRF Inference via Outer-Planar Decomposition][cvpr10-opd]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2010
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2010
 
 [[poster][cvpr10-opd-poster]]
 
@@ -1572,11 +1583,11 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2010
 </div>
 <div class="col-sm-7">
 
-[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], Devi Parikh, Jiasen Luo, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], Devi Parikh, Jiasen Luo, [Tsuhan Chen][cornell-chen]
 
 [iCoseg: Interactive Co-segmentation with Intelligent Scribble Guidance][cvpr10-icoseg]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2010 
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2010 
 
 [[poster][cvpr10-icoseg-pos]] [[project page and dataset]][coseg]
 
@@ -1611,11 +1622,11 @@ Ph.D. Thesis, Carnegie Mellon University, 2009
 </div>
 <div class="col-sm-7">
 
-[Dhruv Batra][edbatra], Devi Parikh, [Adarsh Kowdle][adarsh], [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345) and Jiasen Luo
+[Dhruv Batra][edbatra], Devi Parikh, [Adarsh Kowdle][adarsh], [Tsuhan Chen][cornell-chen] and Jiasen Luo
 
 [Seed Image Selection in Interactive Cosegmentation][301]
 
-_IEEE International Conference on Image Processing (ICIP)_, 2009
+IEEE International Conference on Image Processing (ICIP), 2009
 
 </div>
 </div><hr>
@@ -1626,11 +1637,11 @@ _IEEE International Conference on Image Processing (ICIP)_, 2009
 </div>
 <div class="col-sm-7">
 
-Devi Parikh, [C. Lawrence Zitnick][c-lawrence] and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+Devi Parikh, [C. Lawrence Zitnick][c-lawrence] and [Tsuhan Chen][cornell-chen]
 
 [Unsupervised Learning of Hierarchical Spatial Structures in Images][cvpr09-steiner2]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2009
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2009
 
 [[poster][cvpr09-steiner1]] [[slides][cvpr09-steiner]]
 
@@ -1643,11 +1654,11 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2009
 </div>
 <div class="col-sm-7">
 
-[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], Devi Parikh and [Tsuhan Chen][cornell-chen]
 
 [Cutout-Search: Putting a name to the Picture][cvpr09-cutout]
 
-_Workshop on Internet Vision, IEEE Conference on Computer Vision and Pattern Recognition (CVPR),_ 2009
+Workshop on Internet Vision, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2009
 
 </div>
 </div><hr>
@@ -1658,11 +1669,11 @@ _Workshop on Internet Vision, IEEE Conference on Computer Vision and Pattern Rec
 </div>
 <div class="col-sm-7">
 
-[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], K. Tang, Devi Parikh, Jiasen Luo, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+[Dhruv Batra][edbatra], [Adarsh Kowdle][adarsh], K. Tang, Devi Parikh, Jiasen Luo, [Tsuhan Chen][cornell-chen]
 
 Interactive Cosegmentation by Touch.
 
-Demo at _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2009
+Demo at IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2009
 
 [[project page][cvpr09]]
 
@@ -1675,11 +1686,11 @@ Demo at _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 200
 </div>
 <div class="col-sm-7">
 
-C. Mao, H. Lee, Devi Parikh, [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345) and S. Huang
+C. Mao, H. Lee, Devi Parikh, [Tsuhan Chen][cornell-chen] and S. Huang
 
 Semi-Supervised Cotraining and Active Learning based Approach for Multi-view Intrusion Detection
 
-_ACM Symposium on Applied Computing (SAC),_ 2009
+ACM Symposium on Applied Computing (SAC), 2009
 
 </div>
 </div><hr>
@@ -1696,13 +1707,13 @@ _ACM Symposium on Applied Computing (SAC),_ 2009
 </div>
 <div class="col-sm-7">
 
-Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345/)
+Devi Parikh and [Tsuhan Chen][Tsuhan Chen]
 
 [Unsupervised Modeling of Objects and their Hierarchical Contextual Interactions][parikh-chen]
 
-_EURASIP Journal on Image and Video Processing_
+EURASIP Journal on Image and Video Processing
 
-_Special Issue on Patches in Vision,_ 2008
+Special Issue on Patches in Vision, 2008
 
 [[slides][parikh-ppt]]
 
@@ -1715,13 +1726,13 @@ _Special Issue on Patches in Vision,_ 2008
 </div>
 <div class="col-sm-7">
 
-Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345/)
+Devi Parikh and [Tsuhan Chen][Tsuhan Chen]
 
 [Data Fusion and Cost Minimization for Intrusion Detection][intrution]
 
-_IEEE Transactions on Information Forensics and Security_
+IEEE Transactions on Information Forensics and Security
 
-_Special Issue on Statistical Methods for Network Security and Forensics,_ August 2008
+Special Issue on Statistical Methods for Network Security and Forensics, August 2008
 
 </div>
 </div><hr>
@@ -1736,7 +1747,7 @@ _Special Issue on Statistical Methods for Network Security and Forensics,_ Augus
 
 [An Ensemble Based Data Fusion for Early Diagnosis of Alzheimer's Disease][alzheimer]
 
-_Information Fusion,_ _Special Issue on Applications of Ensemble Methods,_ January 2008
+Information Fusion, _Special Issue on Applications of Ensemble Methods,_ January 2008
 
 </div>
 </div><hr>
@@ -1747,11 +1758,11 @@ _Information Fusion,_ _Special Issue on Applications of Ensemble Methods,_ Janua
 </div>
 <div class="col-sm-7">
 
-Devi Parikh, [C. Lawrence Zitnick][c-lawrence] and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+Devi Parikh, [C. Lawrence Zitnick][c-lawrence] and [Tsuhan Chen][cornell-chen]
 
 [Determining Patch Saliency Using Low-Level Context][cvpr08-sal-con]
 
-_European Conference on Computer Vision (ECCV)_, 2008
+European Conference on Computer Vision (ECCV), 2008
 
 [[poster][cvpr08-sal-poster]] [[slides][cvpr08-saliency]]
 
@@ -1764,11 +1775,11 @@ _European Conference on Computer Vision (ECCV)_, 2008
 </div>
 <div class="col-sm-7">
 
-Devi Parikh, [C. Lawrence Zitnick][c-lawrence] and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+Devi Parikh, [C. Lawrence Zitnick][c-lawrence] and [Tsuhan Chen][cornell-chen]
 
 [From Appearance to Context-Based Recognition: Dense Labeling in Small Images][cvpr08-small]
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2008
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2008
 
 [[poster][cvpr08]] [[slides][cvpr]]
 
@@ -1781,11 +1792,11 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2008
 </div>
 <div class="col-sm-7">
 
-Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+Devi Parikh and [Tsuhan Chen][cornell-chen]
 
 [Bringing Diverse Classifiers to Common Grounds: dtransform][icassp8]
 
-_International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_, 2008
+International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2008
 
 [[slides][icassp]]
 
@@ -1802,7 +1813,7 @@ Devi Parikh and [Gavin Jancke][gavi]
 
 [Localization and Segmentation of a 2D High Capacity Color Barcode][wacv8]
 
-_Workshop on Applications in Computer Vision (WACV)_, 2008
+Workshop on Applications in Computer Vision (WACV), 2008
 
 [[slides][wacv]] 
 
@@ -1825,7 +1836,7 @@ Devi Parikh and [Robi Polikar][epolikar]
 
 [An Ensemble Based Incremental Learning Approach to Data Fusion][data-fus]
 
-_IEEE Transactions on Systems, Man and Cybernetics,_ April 2007
+IEEE Transactions on Systems, Man and Cybernetics, April 2007
 
 </div>
 </div><hr>
@@ -1836,11 +1847,11 @@ _IEEE Transactions on Systems, Man and Cybernetics,_ April 2007
 </div>
 <div class="col-sm-7">
 
-Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+Devi Parikh and [Tsuhan Chen][cornell-chen]
 
 [Unsupervised Identification of Multiple Objects of Interest from Multiple Images: dISCOVER][discover-7]
 
-_Asian Conference in Computer Vision (ACCV)_, 2007
+Asian Conference in Computer Vision (ACCV), 2007
 
 [[poster][discover]]
 
@@ -1853,11 +1864,11 @@ _Asian Conference in Computer Vision (ACCV)_, 2007
 </div>
 <div class="col-sm-7">
 
-Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+Devi Parikh and [Tsuhan Chen][cornell-chen]
 
 [Hierarchical Semantics of Objects (hSOs)][iccv7-hso]
 
-_IEEE International Conference in Computer Vision (ICCV)_, 2007
+IEEE International Conference in Computer Vision (ICCV), 2007
 
 [[poster][iccv7]] [[slides][parikh-ppt]]
 
@@ -1870,11 +1881,11 @@ _IEEE International Conference in Computer Vision (ICCV)_, 2007
 </div>
 <div class="col-sm-7">
 
-Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+Devi Parikh and [Tsuhan Chen][cornell-chen]
 
 [Classification-Error Cost Minimization Strategy: dCMS][dcms]
 
-_IEEE Statistical Signal Processing Workshop_, 2007
+IEEE Statistical Signal Processing Workshop, 2007
 
 [[poster][ssp]]
 
@@ -1887,13 +1898,13 @@ _IEEE Statistical Signal Processing Workshop_, 2007
 </div>
 <div class="col-sm-7">
 
-Devi Parikh and [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345)
+Devi Parikh and [Tsuhan Chen][cornell-chen]
 
 [Unsupervised Learning of Hierarchical Semantics of Objects (hSOs)][hso]
 
-_Beyond Patches Workshop_
+Beyond Patches Workshop
 
-_IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2007 **(Best Paper Award)**
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2007 **(Best Paper Award)**
 
 [[slides][cvpr]]
 
@@ -1906,11 +1917,11 @@ _IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2007 **(Bes
 </div>
 <div class="col-sm-7">
 
-Devi Parikh, [Rahul Sukthankar][rahul], [Tsuhan Chen](http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345) and [Mei Chen][emei]
+Devi Parikh, [Rahul Sukthankar][rahul], [Tsuhan Chen][cornell-chen] and [Mei Chen][emei]
 
 [Feature-based Part Retrieval for Interactive 3D Reassembly][chen-chen]
 
-_IEEE Workshop on Applications of Computer Vision (WACV)_, 2007
+IEEE Workshop on Applications of Computer Vision (WACV), 2007
 
 [[poster][3d-reassy]] [[slides][intel-fin]]
 
@@ -1934,7 +1945,7 @@ Robi Polikar, Devi Parikh and [Shreekanth Mandayam][shreek]
 
 [Multiple Classifiers System for Multisensor Data Fusion][sas-06]
 
-_IEEE Proceedings on Sensors Applications Symposium_, 2006
+IEEE Proceedings on Sensors Applications Symposium, 2006
 
 </div>
 </div><hr>
@@ -1956,7 +1967,7 @@ _IEEE Proceedings on Sensors Applications Symposium_, 2006
 
 [Evaluate the Effect of Coarse and Fine Rubber Particles on Laboratory Rutting Performance of Asphalt Concrete Mixtures][swj-05]
 
-_The Journal of Solid Waste Technology And Management_, 2005
+The Journal of Solid Waste Technology And Management, 2005
 
 </div>
 </div><hr>
@@ -1971,7 +1982,7 @@ Devi Parikh, N. Stepenosky, A. Topalis, D. Green, J. Kounios, C. Clark and [Robi
 
 [Ensemble Based Data Fusion for Early Diagnosis of Alzheimer's Disease][emb-05]
 
-_IEEE Proceedings on The Engineering in Medicine and Biology_, 2005
+IEEE Proceedings on The Engineering in Medicine and Biology, 2005
 
 </div>
 </div><hr>
@@ -1986,7 +1997,7 @@ Devi Parikh and [Robi Polikar][epolikar]
 
 [A Multiple Classifier Approach for Multisensor Data Fusion][fus-05]
 
-_IEEE Proceedings on Information Fusion_, 2005
+IEEE Proceedings on Information Fusion, 2005
 
 </div>
 </div><hr>
@@ -2008,7 +2019,7 @@ Devi Parikh, M. Kim, J. Oagaro, [Shreekanth Mandayam][shreek] and [Robi Polikar]
 
 [Combining Classifiers for Multisensor Data Fusion][smc-04]
 
-_IEEE Proceedings on Systems, Man and Cybernetics_, 2004
+IEEE Proceedings on Systems, Man and Cybernetics, 2004
 
 </div>
 </div><hr>
@@ -2023,7 +2034,7 @@ Devi Parikh, M. Kim, J. Oagaro, [Shreekanth Mandayam][shreek] and [Robi Polikar]
 
 [Ensemble of Classifiers Approach for NDT Data Fusion][uffc-04]
 
-_IEEE Proceedings on Ultrasonics, Ferroelectrics and Frequency Control_, 2004
+IEEE Proceedings on Ultrasonics, Ferroelectrics and Frequency Control, 2004
 
 </div>
 </div><hr>
@@ -2045,7 +2056,7 @@ Devi Parikh, [Yusuf A. Mehta][mehta] and [Kauser Jahan][jahan]
 
 [Evaluate the Effect of Ground Tire Rubber on Laboratory Rutting Performance of Asphalt Concrete Mixtures][ihwc-12]
 
-_Proceedings of Industrial and Hazardous Waste Conference_, 2002
+Proceedings of Industrial and Hazardous Waste Conference, 2002
 
 Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it is only $2, from China. Learn to solve it with the tutorial on rubiksplace.com or use the [solver to calculate][rubik] the solution in a few steps.
 
@@ -2230,7 +2241,7 @@ Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it i
 [arx-5726]: http://arxiv.org/abs/1411.5726
 [cider]: {{site.baseurl}}/static/publications/CVPR2015_cider_extended_abstract.pdf
 [vram-cider]: http://vrama91.github.io/cider/
-[kovas]: https://people.cs.pitt.edu/%AdrianaKovashka/
+[kovas]: http://people.cs.pitt.edu/~kovashka/
 [grauman]: http://www.cs.utexas.edu/%7Egrauman/
 [via-visual]: https://computing.ece.vt.edu/%7Esantol/projects/zsl_via_visual_abstraction/eccv2014_zsl_via_visual_abstraction.pdf
 [viazsl]: https://computing.ece.vt.edu/%7Esantol/projects/zsl_via_visual_abstraction/
@@ -2241,7 +2252,7 @@ Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it i
 [eccv]: http://www.cs.cmu.edu/%7Eaayushb/pubs/characterizing_mistakes_eccv2014.pdf
 [eccv-14]: http://www.cs.cmu.edu/%7Eaayushb/characterizingFailureModes/
 [phillipi]: http://web.mit.edu/phillipi/
-[prince-xj]: http://vision.princeton.edu/people/xj/
+[prince-xj]: http://www.jianxiongxiao.com/
 [torra]: http://web.mit.edu/torralba/www/
 [aude]: http://cvcl.mit.edu/Aude.htm
 [pami]: {{site.baseurl}}/static/publications/image_memorability_pami.pdf
@@ -2262,7 +2273,7 @@ Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it i
 [att-dom-g]: https://sites.google.com/site/turakhianaman/attribute_dominance
 [att-dom-poster]: {{site.baseurl}}/static/publications/TurakhiaParikh_attribute_dominance_ICCV_2013_poster.pdf
 [amir]: http://chenlab.ece.cornell.edu/people/Amir/
-[profile]: http://www.engineering.cornell.edu/research/faculty/profile.cfm?netid=tc345
+[profile]: https://www.ece.cornell.edu/people/profile.cfm?netid=tc345
 [sadovnik]: {{site.baseurl}}/static/publications/Sadovnik_ICCV_2013_saying_the_right_thing.pdf
 [spoken]: http://chenlab.ece.cornell.edu/projects/spoken_attributes/
 [right-poster]: {{site.baseurl}}/static/publications/Sadovnik_ICCV_2013_saying_the_right_thing_poster.pdf
@@ -2276,30 +2287,30 @@ Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it i
 [eyao]: http://ttic.uchicago.edu/%7Eyaojian/
 [erurta]: http://ttic.uchicago.edu/%7Erurtasun/
 [debug-crf]: {{site.baseurl}}/static/publications/Mottaghi_CVPR_2013_debug_crf.pdf
-[debug-crf-poster]: {{site.baseurl}}/static/publications/Mottaghi_CVPR_2013_debug_crf_poster.pptx
+[debug-crf-poster]: {{site.baseurl}}/static/publications/Mottaghi_CVPR_2013_debug_crf_poster.zip
 [earijit]: http://www.umiacs.umd.edu/%7Earijit/
 [att-feedback]: {{site.baseurl}}/static/publications/BiswasParikh_CVPR_2013_active_attributes_feedback.pdf
 [att-feed]: attribute_feedback
 [att-feed-poster]: {{site.baseurl}}/static/publications/BiswasParikh_CVPR_2013_active_attributes_feedback_poster.pdf
-[class-feed]: {{site.baseurl}}/demos.htm#classifier_feedback_demo
+[class-feed]: https://www.cc.gatech.edu/~parikh/demos.htm#classifier_feedback_demo
 [emra]: http://www.umiacs.umd.edu/%7Emrastega/
 [cvpr13]: {{site.baseurl}}/static/publications/Rastegari_Diba_Parikh_Farhadi_CVPR_2013.pdf
 [cvpr13-pos]: {{site.baseurl}}/static/publications/Rastegari_CVPR_2013_complex_query_poster.pdf
-[demos]: {{site.baseurl}}/demos.htm
+[demos]: https://www.cc.gatech.edu/~parikh/demos.htm
 [eccv-att]: {{site.baseurl}}/static/publications/ParkashParikh_ECCV_2012_attributes_feedback.pdf
 [clas-fed-ppt]: {{site.baseurl}}/static/publications/attributes_for_classifier_feedback.pptx
 [eccv12-att]: http://videolectures.net/eccv2012_parikh_attributes/
 [relative-att]: {{site.baseurl}}/static/publications/PariAdrianaKovashkaParkashGrauman_AAAI_2012_relative_attributes.pdf
 [congcong]: http://chenlab.ece.cornell.edu/people/congcong/
-[cornell-edu]: http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345
+[cornell-edu]: https://www.ece.cornell.edu/people/profile.cfm?netid=tc345
 [group-obj]: {{site.baseurl}}/static/publications/LiParikhChen_CVPR_2012_groups_of_objects.pdf
 [obj-gr]: http://chenlab.ece.cornell.edu/projects/objectgroup
 [obj-gr-pos]: {{site.baseurl}}/static/publications/LiParikhChen_CVPR_2012_groups_of_objects_poster.pdf
 [whit-search]: PublicationAdrianaKovashkaParikhGrauman_CVPR_2012_whittle_search.pdf
 [whit-search.edu]: http://vision.cs.utexas.edu/whittlesearch/
 [whit-search-pos]: PublicationAdrianaKovashkaParikhGrauman_CVPR_2012_whittle_search_poster.pdf
-[whit-demo]: {{site.baseurl}}/demos.htm#whittle_demo
-[whit-mp4]: {{site.baseurl}}/WhittleSearch.mp4
+[whit-demo]: https://www.cc.gatech.edu/~parikh/demos.htm#whittle_demo
+[whit-mp4]: https://www.cc.gatech.edu/~parikh/WhittleSearch.mp4
 [ekduan]: https://www.cs.indiana.edu/%7Ekduan/
 [Edjc]: https://www.cs.indiana.edu/%7Edjcran/
 [local-attrib]: {{site.baseurl}}/static/publications/DuanParikhCrandallGrauman_CVPR_2012_local_attributes.pdf
@@ -2361,7 +2372,7 @@ Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it i
 [cvpr09-steiner]: {{site.baseurl}}/static/publications/slides/ParikhZitnickChen_CVPR_2009_steiner.pptx
 [cvpr09-cutout]: {{site.baseurl}}/static/publications/IV_CVPR_2009_cutout_search.pdf
 [cvpr09]: http://www.ece.cmu.edu/%7Edbatra/research/cvpr09_demo/cvpr09_demo.html
-[cornell]: http://www.ece.cornell.edu/ece/people/profile.cfm?netid=tc345/
+[cornell]: https://www.ece.cornell.edu/people/profile.cfm?netid=tc345
 [parikh-chen]: {{site.baseurl}}/static/publications/ParikhChen_hSO_journal_2008.pdf
 [parikh-ppt]: {{site.baseurl}}/static/publications/slides/ParikhChen_hSO.pptx
 [intrution]: {{site.baseurl}}/static/publications/ParikhChen_intrusion_detection_journal_2008.pdf
@@ -2404,3 +2415,7 @@ Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it i
 [ihwc-12]: {{site.baseurl}}/static/publications/Parikh_IHWC_2002.pdf
 [rubik]: https://www.grubiks.com/solvers/rubiks-cube-3x3x3/
 [arx-1606]: http://arxiv.org/abs/1606.03556
+[cornell-chen]: https://www.ece.cornell.edu/people/profile.cfm?netid=tc345
+[a-kannan]: https://www.google.com/search?q=Anitha+Kannan&ie=utf-8&oe=utf-8
+[vid-youtube]: https://www.youtube.com/watch?v=nMr_sSAMpkE
+[t-chen]: https://www.ece.cornell.edu/people/profile.cfm?netid=tc345
