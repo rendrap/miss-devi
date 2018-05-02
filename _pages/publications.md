@@ -2066,8 +2066,8 @@ Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it i
 {::options parse_block_html="false" /}
 
 [1]: CVL.html
-[2]: publications_topic.htm
-[3]: publications.htm
+[2]: publications_topic
+[3]: publications
 [latest]: #latest-arxiv-manuscripts
 [5]: #2018-back-to-top
 [6]: #2017-back-to-top
