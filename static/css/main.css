@@ -224,6 +224,10 @@ pre {
   padding: 0 15px;
 }
 
+.pub .md-blue {
+  color: #4D8DF4;
+  font-weight: bold;
+}
 
 .pub .col-sm-7 {
   display: flex;

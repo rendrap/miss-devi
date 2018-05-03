@@ -99,6 +99,7 @@ arxiv.org/abs/1704.08243, 2017
 \* equal contribution
 
 [It Takes Two to Tango: Towards Theory of AI's Mind][tango ]
+
 arxiv.org/abs/1704.00717, 2017
 
 </div>
@@ -118,7 +119,7 @@ arxiv.org/abs/1704.00717, 2017
 [Punny Captions: Witty Wordplay in Image Descriptions][39]
 
 Conference of the North American Chapter of the Association for Computational Linguistics:
-Human Language Technologies (NAACL HLT), 2018.
+Human Language Technologies (NAACL HLT), 2018
 
 </div>
 </div><hr>
@@ -133,7 +134,7 @@ Human Language Technologies (NAACL HLT), 2018.
 
 [Embodied Question Answering][e-qa]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018\. (Oral)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 <span class="md-blue">(Oral)</span>
 
 </div>
 </div><hr>
@@ -150,7 +151,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018\. (Oral)
 
 [Neural Baby Talk][baby-talk]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018\. (Spotlight)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018 <span class="md-blue">(Spotlight)</span>
 
 </div>
 </div><hr>
@@ -166,7 +167,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018\. (Spotl
 
 [Don't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering][dont-assume]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 
 </div>
 </div><hr>
@@ -319,7 +320,7 @@ Conference on Empirical Methods in Natural Language Processing (EMNLP), 2017 (De
 
 [Visual Dialog][visual-dia]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017\. (Spotlight)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017 <span class="md-blue">(Spotlight)</span>
 
 [[www.visualdialog.org][visual-dia.org]] [[video][vid]]
 
@@ -338,7 +339,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017\. (Spotl
 
 [Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning][img-capt]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017\. (Spotlight)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017 <span class="md-blue">(Spotlight)</span>
 
 [code coming soon!]
 
@@ -355,7 +356,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017\. (Spotl
 
 [Context-aware Captions from Context-agnostic Supervision][context-aware]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017\. (Spotlight)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017 <span class="md-blue">(Spotlight)</span>
 
 </div>
 </div><hr>
@@ -372,7 +373,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017\. (Spotl
 
 [Counting Everyday Objects in Everyday Scenes][counting]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017\. (Spotlight)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017 <span class="md-blue">(Spotlight)</span>
 
 </div>
 </div><hr>
@@ -389,7 +390,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017\. (Spotl
 
 [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering][vqa-matter] (a.k.a. The VQA v2.0 Dataset)
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017
 
 [[project page][proj-page]] [[video][vid-youtube]]
 
@@ -560,7 +561,7 @@ European Conference on Computer Vision (ECCV), 2016
 
 [Deep Learning the City: Quantifying Urban Perception at a Global Scale][arx-4407]
 
-European Conference on Computer Vision (ECCV), 2016.
+European Conference on Computer Vision (ECCV), 2016
 
 </div>
 </div><hr>
@@ -590,7 +591,7 @@ AI Magazine (2016)
 
 [We Are Humor Beings: Understanding and Predicting Visual Humor][arx-1512]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016\. (Spotlight)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016 <span class="md-blue">(Spotlight)</span>
 
 </div>
 </div><hr>
@@ -607,7 +608,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016\. (Spotl
 
 [Yin and Yang: Balancing and Answering Binary Visual Questions][arx-5099]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016
 
 </div>
 </div><hr>
@@ -624,7 +625,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 
 [Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes][arx-7067]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016
 
 [[project page (including code)][vis-world]]
 
@@ -641,7 +642,7 @@ Jianwei Yang, Devi Parikh, and [Dhruv Batra][d-batra]
 
 [Joint Unsupervised Learning of Deep Representations and Image Clusters][arx-3628]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016
 
 </div>
 </div><hr>
@@ -660,7 +661,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
 
 Conference of the North American Chapter of the Association for Computational Linguistics:
 
-Human Language Technologies (NAACL HLT), 2016.
+Human Language Technologies (NAACL HLT), 2016
 
 [[project page with dataset][vist]]
 
@@ -679,7 +680,7 @@ Human Language Technologies (NAACL HLT), 2016.
 
 Conference of the North American Chapter of the Association for Computational Linguistics:
 
-Human Language Technologies (NAACL HLT), 2016\. (Oral)
+Human Language Technologies (NAACL HLT), 2016 <Span class="md-blue">(Oral)</span>
 
 [[project page with data and evaluation][roc]]
 
@@ -696,7 +697,7 @@ Human Language Technologies (NAACL HLT), 2016\. (Oral)
 
 [Knowing Who To Listen To: Prioritizing Experts from a Diverse Ensemble for Attribute Personalization][per-attrib]
 
-International Conference on Image Processing (ICIP), 2016.
+International Conference on Image Processing (ICIP), 2016
 
 </div>
 </div><hr>
@@ -715,7 +716,7 @@ Special Issue on the best papers at the
 
 2013 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
 
-IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2016.
+IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2016
 
 [[project page, data, slides, video, etc.][clipart]]
 
@@ -732,7 +733,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2016.
 
 [Human-Machine CRFs for Identifying Bottlenecks in Scene Understanding][hum-crf]
 
-IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2016.
+IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2016
 
 [[supplementary material][hum-crf-sp]]
 
@@ -757,7 +758,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2016.
 
 [VQA: Visual Question Answering][vqa-15]
 
-International Conference on Computer Vision (ICCV), 2015.
+International Conference on Computer Vision (ICCV), 2015
 
 [[project page][vqa-org]]
 
@@ -776,7 +777,7 @@ International Conference on Computer Vision (ICCV), 2015.
 
 [Learning Common Sense Through Visual Abstraction][common]
 
-International Conference on Computer Vision (ICCV), 2015.
+International Conference on Computer Vision (ICCV), 2015
 
 [[supplementary material][common-sup]] [[project page][vt-cs] (under construction)]
 
@@ -793,7 +794,7 @@ International Conference on Computer Vision (ICCV), 2015.
 
 [Don't Just Listen, Use Your Imagination: Leveraging Visual Common Sense for Non-Visual Tasks][arx-6108]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015\. (Oral)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015 <span class="md-blue">(Oral)</span>
 
 [[extended abstract][img-ext]] [[talk (video)][dont-listen]] [[project page with code, data, slides, etc.][imagine]]
 
@@ -810,7 +811,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015\. (Oral)
 
 [Image Specificity](http://arxiv.org/abs/1502.04569)
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015\. (Oral)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015 <Span class="md-blue">(Oral)</span>
 
 [[extended abstract][ext-abs]] [[talk (video)][img-spc]] [[project page with code, data, slides, etc.][jasman]]
 
@@ -827,7 +828,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015\. (Oral)
 
 [Understanding Image Virality][arx-2318]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015
 
 [[extended abstract][15-abs]] [[project page with code, data, etc.][viral]]
 
@@ -844,7 +845,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.
 
 [CIDEr: Consensus-based Image Description Evaluation][arx-5726]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015
 
 [[extended abstract][cider]] [[project page with code, data, etc.][vram-cider]]
 
@@ -880,7 +881,7 @@ International Journal of Computer Vision (IJCV), 2015
 
 [Zero-Shot Learning via Visual Abstraction][via-visual].
 
-European Conference on Computer Vision (ECCV), 2014.
+European Conference on Computer Vision (ECCV), 2014
 
 [[project page][viazsl]]
 
@@ -897,7 +898,7 @@ European Conference on Computer Vision (ECCV), 2014.
 
 [Interactively Guiding Semi-Supervised Clustering via Attribute-based Explanations][feedback].
 
-European Conference on Computer Vision (ECCV), 2014.
+European Conference on Computer Vision (ECCV), 2014
 
 [[project page][cluster]]
 
@@ -914,7 +915,7 @@ European Conference on Computer Vision (ECCV), 2014.
 
 [Towards Transparent Systems: Semantic Characterization of Failure Modes][eccv]. 
 
-European Conference on Computer Vision (ECCV), 2014.
+European Conference on Computer Vision (ECCV), 2014
 
 [[project page][eccv-14]]
 
@@ -931,7 +932,7 @@ European Conference on Computer Vision (ECCV), 2014.
 
 [What makes a photograph memorable?][pami]
 
-IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2014.
+IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2014
 
 </div>
 </div><hr>
@@ -946,7 +947,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2014.
 
 [Predicting Failures of Vision Systems][predict]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014
 
 [[project page][alert]]
 
@@ -963,7 +964,7 @@ G. Christie, [Amar Parkash][apark], U. Krothapalli and Devi Parikh
 
 [Predicting User Annoyance Using Visual Attributes][annoy-predict]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014
 
 [[project page][a-pred]]
 
@@ -982,7 +983,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
 
 Big Vision workshop
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014
 
 [[project page][re-rank]]
 
@@ -1008,7 +1009,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2014.
 
 Workshop on 3D Representation and Recognition (3dRR)
 
-International Conference on Computer Vision (ICCV), 2013.
+International Conference on Computer Vision (ICCV), 2013
 
 </div>
 </div><hr>
@@ -1023,7 +1024,7 @@ Devi Parikh
 
 [Visual Attributes for Enhanced Human-Machine Communication][allerton] (Invited paper)
 
-Allerton Conference on Communication, Control and Computing, 2013\. (Oral)
+Allerton Conference on Communication, Control and Computing, 2013 <span class="md-blue">(Oral)</span>
 
 </div>
 </div><hr>
@@ -1038,7 +1039,7 @@ Allerton Conference on Communication, Control and Computing, 2013\. (Oral)
 
 [Attribute Dominance: What Pops Out? ][att-dom]
 
-International Conference on Computer Vision (ICCV), 2013.
+International Conference on Computer Vision (ICCV), 2013
 
 [[project page and data][att-dom-g]] [[poster][att-dom-poster]]
 
@@ -1055,7 +1056,7 @@ International Conference on Computer Vision (ICCV), 2013.
 
 [Spoken Attributes: Mixing Binary and Relative Attributes to Say the Right Thing][sadovnik]
 
-International Conference on Computer Vision (ICCV), 2013.
+International Conference on Computer Vision (ICCV), 2013
 
 [[project page and data][spoken]] [[poster][right-poster]]
 
@@ -1072,7 +1073,7 @@ Devi Parikh and [Kristen Grauman][grauman]
 
 [Implied Feedback: Learning Nuances of User Behavior in Image Search][nuance]
 
-International Conference on Computer Vision (ICCV), 2013.
+International Conference on Computer Vision (ICCV), 2013
 
 [[supp material][nuance-sup]] [[poster][nuance-sup-pos]]
 
@@ -1089,7 +1090,7 @@ International Conference on Computer Vision (ICCV), 2013.
 
 [Learning the Visual Interpretation of Sentences][scene-zitnik]
 
-International Conference on Computer Vision (ICCV), 2013.
+International Conference on Computer Vision (ICCV), 2013
 
 [[project page, data, slides, video, etc.][clipart]]
 
@@ -1106,7 +1107,7 @@ International Conference on Computer Vision (ICCV), 2013.
 
 [Bringing Semantics Into Focus Using Visual Abstraction][cvpr-clipart]
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013 (Oral)
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013 <Span class="md-blue">(Oral)</span>
 
 [[project page, data, slides, video, etc.][clipart]]
 
@@ -1196,7 +1197,7 @@ Relative Attributes for Enhanced Human-Machine Communication
 
 [Attributes for Classifier Feedback][eccv-att]
 
-European Conference on Computer Vision (ECCV), 2012 (Oral)
+European Conference on Computer Vision (ECCV), 2012 <span class="md-blue">(Oral)</span>
 
 [[slides][clas-fed-ppt]] [[talk (video)][eccv12-att]] [[project page and data][att-feed]] [[demo][class-feed]]
 
@@ -1213,7 +1214,7 @@ Devi Parikh, [Adriana Kovashka][kovas], [Amar Parkash][apark] and [Kristen Graum
 
 [Relative Attributes for Enhanced Human-Machine Communication][relative-att] (Invited paper)
 
-AAAI Conference on Artificial Intelligence (AAAI) 2012 (Oral)
+AAAI Conference on Artificial Intelligence (AAAI) 2012 <span class="md-blue">(Oral)</span>
 
 [[demos][demos]]
 
@@ -1355,7 +1356,7 @@ Neural Information Processing Systems (NIPS), 2011
 
 Interactive Co-segmentation of Objects in Image Collections (Book)
 
-SpringerBriefs in Computer Science, 2011.
+SpringerBriefs in Computer Science, 2011
 
 [[springer link](http://www.springer.com/computer/image+processing/book/978-1-4614-1914-3)]
 
@@ -1389,9 +1390,9 @@ Devi Parikh and [Kristen Grauman][grauman]
 
 [Relative Attributes][iccv11-rel]
 
-International Conference on Computer Vision (ICCV), 2011 (Oral)
+International Conference on Computer Vision (ICCV), 2011 <span class="md-blue">(Oral)</span>
 
-Marr Prize (Best Paper Award) Winner
+Marr Prize <span class="md-blue">__(Best Paper Award)__</span> Winner
 
 [[project page][rel]] [[data][rel#data]] [[code][rel#code]] [[slides][rel-att-ppt]] [[talk (video)][231-m4v]] [[poster][par-grauman]] [[demos][demos]]
 
@@ -1904,7 +1905,9 @@ Devi Parikh and [Tsuhan Chen][cornell-chen]
 
 Beyond Patches Workshop
 
-IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2007 **(Best Paper Award)**
+IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2007
+
+<span class="md-blue">**(Best Paper Award)**</span>
 
 [[slides][cvpr]]
 
@@ -2057,8 +2060,6 @@ Devi Parikh, [Yusuf A. Mehta][mehta] and [Kauser Jahan][jahan]
 [Evaluate the Effect of Ground Tire Rubber on Laboratory Rutting Performance of Asphalt Concrete Mixtures][ihwc-12]
 
 Proceedings of Industrial and Hazardous Waste Conference, 2002
-
-Try to solve the new Formula Cube! It works exactly like a Rubik's Cube but it is only $2, from China. Learn to solve it with the tutorial on rubiksplace.com or use the [solver to calculate][rubik] the solution in a few steps.
 
 </div>
 </div><hr>
