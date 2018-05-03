@@ -239,7 +239,7 @@ pre {
 
 .pub .col-sm-7 p {
   margin-bottom: 3px;
-  line-height: 16px;
+  line-height: 18px;
   font-size: 14px;
 }
 
@@ -269,13 +269,14 @@ pre {
   .pub .col-sm-7 p {
     text-align: left;
     font-size: 14px;
-    letter-spacing: -0.5px;
+    letter-spacing: -0.15px;
     margin-bottom: 0;
+    line-height: 18px;
   }
   #navbar-main > ul > li > a{
     padding-left: 0;
     font-size: 14px;
-    letter-spacing: -0.5px;
+    letter-spacing: -0.1px;
   }
   #navbar-main > ul > li:last-child > a {
     padding-right: 0;
