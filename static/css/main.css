@@ -270,7 +270,7 @@ pre {
   .pub .col-sm-7 p {
     text-align: left;
     font-size: 14px;
-    letter-spacing: -0.01px;
+    letter-spacing: -0.01px !important;
     margin-bottom: 0;
     line-height: 20px;
   }
