@@ -270,9 +270,9 @@ pre {
   .pub .col-sm-7 p {
     text-align: left;
     font-size: 14px;
-    letter-spacing: -0.15px;
+    letter-spacing: -0.05px;
     margin-bottom: 0;
-    line-height: 18px;
+    line-height: 20px;
   }
   #navbar-main > ul > li > a{
     padding-left: 0;
